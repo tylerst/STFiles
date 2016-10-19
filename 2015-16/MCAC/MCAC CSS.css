@@ -1,0 +1,45 @@
+table {margin:0 auto; width:100%; text-align:center; vertical-align:center}
+table.standings {width:75%; text-align:center; vertical-align:center}
+table.vbstandings {width:100%; text-align:center; vertical-align:center}
+table.stats {width:50%}
+td.team {width:40%}
+td.score {width:10%}
+td.UW {background-color:red; color:black}
+td.UW a {background-color:red; color:black}
+td.RRC {background-color:black; color:red}
+td.RRC a {background-color:black; color:red}
+td.CMU {background-color:green; color:yellow}
+td.CMU a {background-color:green; color:yellow}
+td.PUC {background-color:blue; color:white}
+td.PUC a {background-color:blue; color:white}
+td.USB {background-color:red; color:white}
+td.USB a {background-color:red; color:white}
+td.ACC {background-color:maroon; color:white}
+td.ACC a {background-color:maroon; color:white}
+td.OHCC {background-color:#012233; color:#ffa626}
+td.OHCC a {background-color:#012233; color:#ffa626}
+td.UWwin {background-color:red; color:black; font-weight:bold}
+td.RRCwin {background-color:black; color:red; font-weight:bold}
+td.CMUwin {background-color:green; color:yellow; font-weight:bold}
+td.PUCwin {background-color:blue; color:white; font-weight:bold}
+td.USBwin {background-color:red; color:white; font-weight:bold}
+td.ACCwin {background-color:maroon; color:white; font-weight:bold}
+td.OHCCwin {background-color:#012233; color:#ffa626; font-weight:bold}
+.dateBoxRight {
+border: 1px solid #000000;
+border-left:0;
+height:46px;
+}
+
+.overtimeOTBox {
+border: 1px solid #000000;
+border-left:0;
+border-right:0;
+height:46px;
+}
+
+.overtimeOTBoxRight {
+border: 1px solid #000000;
+border-left:0;
+height:46px;
+}

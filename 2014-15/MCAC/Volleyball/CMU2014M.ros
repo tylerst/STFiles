@@ -1,0 +1,19 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[2	1	CMU	Canadian Mennonite University	Blazers	CMU	 	0	MCAC	 	 	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[2	2	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[13	2	1	 1	Thomas	Friesen	 	 	 	 	 	 	 	 	 	 	 	0]
+[14	2	1	 2	Ryan	Quinn	 	 	 	 	 	 	 	 	 	 	 	0]
+[15	2	1	 3	Joel	Kliewer	 	 	 	 	 	 	 	 	 	 	 	0]
+[16	2	1	 6	Josh	Neustaedter Barg	 	 	 	 	 	 	 	 	 	 	 	0]
+[17	2	1	 7	Jonathan	Daman	 	 	 	 	 	 	 	 	 	 	 	0]
+[18	2	1	 8	Colin	Reimer	 	 	 	 	 	 	 	 	 	 	 	0]
+[19	2	1	 9	Jason	Friesen	 	 	 	 	 	 	 	 	 	 	 	0]
+[20	2	1	10	Jono	Orme	 	 	 	 	 	 	 	 	 	 	 	0]
+[21	2	1	11	Jeremy	Penner	 	 	 	 	 	 	 	 	 	 	 	0]
+[22	2	1	12	Kailan	Janzen	 	 	 	 	 	 	 	 	 	 	 	0]
+[23	2	1	13	Evan	Reimer	 	 	 	 	 	 	 	 	 	 	 	0]
+[50	2	1	 4	Dylan	Enns	 	 	 	 	 	 	 	 	 	 	 	0]
+[72	2	1	 3	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]
+[73	2	1	16	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]

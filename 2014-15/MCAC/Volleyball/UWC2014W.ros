@@ -1,0 +1,22 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[5	1	UWC	University of Winnipeg College	Wesmen	UWC	 	1	MCAC	 	MCAC	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[5	5	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[57	5	1	 1	Giorgia	Skorletos	 	 	 	 	 	 	 	 	 	 	 	0]
+[58	5	1	 2	Tilia	Paetsch	 	 	 	 	 	 	 	 	 	 	 	0]
+[59	5	1	 3	Jelyn	Knutson	 	 	 	 	 	 	 	 	 	 	 	0]
+[60	5	1	 4	Robyn	Demare	 	 	 	 	 	 	 	 	 	 	 	0]
+[61	5	1	 5	Emily	Dempster	 	 	 	 	 	 	 	 	 	 	 	0]
+[62	5	1	 6	Amelia	Duncan	 	 	 	 	 	 	 	 	 	 	 	0]
+[63	5	1	 8	Jocelyn	Bartos	 	 	 	 	 	 	 	 	 	 	 	0]
+[64	5	1	 9	Hailey	Hildebrand	 	 	 	 	 	 	 	 	 	 	 	0]
+[65	5	1	10	Amanda	Armour	 	 	 	 	 	 	 	 	 	 	 	0]
+[66	5	1	11	Alexandra	Brezinski	 	 	 	 	 	 	 	 	 	 	 	0]
+[67	5	1	12	Vanessa	Schultz	 	 	 	 	 	 	 	 	 	 	 	0]
+[68	5	1	13	Sydney	Wensel	 	 	 	 	 	 	 	 	 	 	 	0]
+[69	5	1	15	Kelsey	Lacroix	 	 	 	 	 	 	 	 	 	 	 	0]
+[70	5	1	20	Mercede	Schindler	 	 	 	 	 	 	 	 	 	 	 	0]
+[88	5	1	14	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]
+[89	5	1	 7	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]
+[90	5	1	61	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]

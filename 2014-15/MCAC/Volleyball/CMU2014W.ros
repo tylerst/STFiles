@@ -1,0 +1,16 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[4	1	CMU	Canadian Mennonite University	Blazers	CMU	 	1	MCAC	 	MCAC	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[4	4	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[7	4	1	 1	Erin	Blaine	 	 	 	 	 	 	 	 	 	 	 	0]
+[8	4	1	 2	Danielle	Klassen	 	 	 	 	 	 	 	 	 	 	 	0]
+[9	4	1	 4	Selenna	Hildebrand	 	 	 	 	 	 	 	 	 	 	 	0]
+[10	4	1	 5	Rayzanna	Rempel	 	 	 	 	 	 	 	 	 	 	 	0]
+[11	4	1	 6	Becca	Krahn	 	 	 	 	 	 	 	 	 	 	 	0]
+[12	4	1	 7	Tegan	Radcliffe	 	 	 	 	 	 	 	 	 	 	 	0]
+[13	4	1	 9	Tasha	Enns	 	 	 	 	 	 	 	 	 	 	 	0]
+[14	4	1	12	Marcail	Wiebe	 	 	 	 	 	 	 	 	 	 	 	0]
+[15	4	1	14	Kalynn	Dornn	 	 	 	 	 	 	 	 	 	 	 	0]
+[16	4	1	15	Edina-lil	Preteau	 	 	 	 	 	 	 	 	 	 	 	0]
+[87	4	1	 3	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]

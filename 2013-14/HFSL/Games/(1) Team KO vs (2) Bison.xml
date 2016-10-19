@@ -1,0 +1,716 @@
+<bbgame source="CyberSports" version="5.2" generated="07/22/2014">
+  <venue gameid="1405990383"
+         visid="1402251807" visname=" Bison"
+         homeid="1402253406" homename=" Team KO"
+         date="07/21/2014" location="Unknown"
+         time="19:53" attend="" schednote=""
+         leaguegame="Y" neutralgame="N" postseason="N">
+    <officials text="Unknown"></officials>
+    <notes>
+      <note text="None"></note>
+    </notes>
+    <rules prds="2" minutes="30" minutesot="5" fouls="5" qh="H"></rules>
+  </venue>
+  <status complete="Y" period="2" clock="0:00" running="N"></status>
+  <team vh="V" id="1402251807" name=" Bison" record="">
+    <linescore line="32,53" score="85">
+      <lineprd prd="1" score="32"></lineprd>
+      <lineprd prd="2" score="53"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="32" fga="83" fgm3="4" fga3="15" ftm="17" fta="24" tp="85" blk="2" stl="5" ast="11" min="300"
+         oreb="26" dreb="40" treb="66" pf="20" tf="2" to="17" deadball="4,0"></stats>
+      <special vh="V" pts_to="8" pts_ch2="24" pts_bench="27" ties="3" leads="7"></special>
+    </totals>
+    <player uni="0" code="1402251801" name="Joseph Medrano" checkname="MEDRANO,JOSEPH" gp="1" oncourt="N">
+      <stats fgm="0" fga="4" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="11:49"
+        oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0"></stats>
+    </player>
+    <player uni="1" code="1402251799" name="Justus Alleyn" checkname="ALLEYN,JUSTUS" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="6" fga="16" fgm3="1" fga3="4" ftm="3" fta="6" tp="16" blk="0" stl="0" ast="3" min="45:11"
+        oreb="1" dreb="4" treb="5" pf="5" tf="1" to="6"></stats>
+    </player>
+    <player uni="2" code="1402280872" name="Matt Koenig" checkname="KOENIG,MATT" gp="0" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="DNP"
+        oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0"></stats>
+    </player>
+    <player uni="3" code="1402251803" name="Malik Irwin" checkname="IRWIN,MALIK" gp="1" oncourt="N">
+      <stats fgm="4" fga="11" fgm3="0" fga3="0" ftm="1" fta="2" tp="9" blk="0" stl="0" ast="1" min="33:58"
+        oreb="8" dreb="9" treb="17" pf="2" tf="0" to="2"></stats>
+    </player>
+    <player uni="4" code="1402251800" name="AJ Basi" checkname="BASI,AJ" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="9" fga="19" fgm3="1" fga3="4" ftm="4" fta="6" tp="23" blk="1" stl="3" ast="0" min="46:53"
+        oreb="1" dreb="4" treb="5" pf="2" tf="1" to="3"></stats>
+    </player>
+    <player uni="5" code="1402251802" name="Andre Arruda" checkname="ARRUDA,ANDRE" gp="1" oncourt="N">
+      <stats fgm="5" fga="10" fgm3="2" fga3="4" ftm="0" fta="0" tp="12" blk="0" stl="1" ast="1" min="27:26"
+        oreb="2" dreb="5" treb="7" pf="0" tf="0" to="0"></stats>
+    </player>
+    <player uni="6" code="1402880284" name="Lloyd Hildebrand" checkname="HILDEBRAND,LLOYD" gp="1" oncourt="N">
+      <stats fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="14:42"
+        oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0"></stats>
+    </player>
+    <player uni="7" code="1402879630" name="Joey Nitychoruk" checkname="NITYCHORUK,JOEY" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="5" fga="14" fgm3="0" fga3="1" ftm="0" fta="0" tp="10" blk="1" stl="0" ast="1" min="39:41"
+        oreb="4" dreb="6" treb="10" pf="4" tf="0" to="0"></stats>
+    </player>
+    <player uni="8" code="1402251798" name="Amir Ali" checkname="ALI,AMIR" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="0" fga="2" fgm3="0" fga3="1" ftm="1" fta="1" tp="1" blk="0" stl="0" ast="3" min="30:22"
+        oreb="0" dreb="1" treb="1" pf="2" tf="0" to="2"></stats>
+    </player>
+    <player uni="9" code="1402251804" name="Brett Jewell" checkname="JEWELL,BRETT" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="2" fga="3" fgm3="0" fga3="0" ftm="4" fta="5" tp="8" blk="0" stl="0" ast="2" min="23:40"
+        oreb="4" dreb="1" treb="5" pf="2" tf="0" to="2"></stats>
+    </player>
+    <player uni="10" code="1402251805" name="Boris Zimbakov" checkname="ZIMBAKOV,BORIS" gp="1" oncourt="N">
+      <stats fgm="0" fga="2" fgm3="0" fga3="0" ftm="4" fta="4" tp="4" blk="0" stl="0" ast="0" min="26:18"
+        oreb="1" dreb="3" treb="4" pf="2" tf="0" to="1"></stats>
+    </player>
+    <player uni="" code="1402251806" name="Daman Morissette" checkname="MORISSETTE,DAMAN" gp="0" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="DNP"
+        oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0"></stats>
+    </player>
+  </team>
+  <team vh="H" id="1402253406" name=" Team KO" record="">
+    <linescore line="43,29" score="72">
+      <lineprd prd="1" score="43"></lineprd>
+      <lineprd prd="2" score="29"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="23" fga="69" fgm3="8" fga3="31" ftm="18" fta="24" tp="72" blk="4" stl="9" ast="9" min="300"
+         oreb="9" dreb="28" treb="37" pf="17" tf="1" to="14" deadball="2,0"></stats>
+      <special vh="H" pts_to="11" pts_ch2="9" pts_bench="12" ties="3" leads="7"></special>
+    </totals>
+    <player uni="0" code="1402253403" name="Keegan Slijker" checkname="SLIJKER,KEEGAN" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="2" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="2" stl="1" ast="3" min="37:21"
+        oreb="3" dreb="2" treb="5" pf="4" tf="1" to="2"></stats>
+    </player>
+    <player uni="1" code="1402253396" name="Jonar Huertas" checkname="HUERTAS,JONAR" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="4" fga="16" fgm3="3" fga3="9" ftm="6" fta="8" tp="17" blk="0" stl="3" ast="1" min="44:30"
+        oreb="0" dreb="4" treb="4" pf="2" tf="0" to="3"></stats>
+    </player>
+    <player uni="2" code="1402253402" name="Myles Posthumus" checkname="POSTHUMUS,MYLES" gp="1" oncourt="N">
+      <stats fgm="1" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="1" stl="0" ast="0" min="26:11"
+        oreb="2" dreb="0" treb="2" pf="0" tf="0" to="1"></stats>
+    </player>
+    <player uni="3" code="1402253401" name="Alan Vince" checkname="VINCE,ALAN" gp="0" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="DNP"
+        oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0"></stats>
+    </player>
+    <player uni="4" code="1402253405" name="Donny Hayes" checkname="HAYES,DONNY" gp="1" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="1" tp="0" blk="0" stl="0" ast="1" min="15:32"
+        oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2"></stats>
+    </player>
+    <player uni="5" code="1402253400" name="Kyle Vince" checkname="VINCE,KYLE" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="2" fga="12" fgm3="1" fga3="8" ftm="1" fta="2" tp="6" blk="0" stl="1" ast="0" min="42:38"
+        oreb="1" dreb="4" treb="5" pf="1" tf="0" to="0"></stats>
+    </player>
+    <player uni="6" code="1402253399" name="Eric Garcia" checkname="GARCIA,ERIC" gp="1" oncourt="N">
+      <stats fgm="4" fga="6" fgm3="2" fga3="4" ftm="0" fta="0" tp="10" blk="1" stl="3" ast="0" min="39:42"
+        oreb="0" dreb="4" treb="4" pf="1" tf="0" to="0"></stats>
+    </player>
+    <player uni="9" code="1402253397" name="Kevin Oliver" checkname="OLIVER,KEVIN" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="1" fga="5" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="1" ast="2" min="39:53"
+        oreb="1" dreb="3" treb="4" pf="6" tf="0" to="2"></stats>
+    </player>
+    <player uni="8" code="1402253398" name="Xavier Smith" checkname="SMITH,XAVIER" gp="1" gs="1" pos="*" oncourt="N">
+      <stats fgm="9" fga="22" fgm3="1" fga3="7" ftm="11" fta="13" tp="30" blk="0" stl="0" ast="2" min="54:13"
+        oreb="1" dreb="4" treb="5" pf="3" tf="0" to="2"></stats>
+    </player>
+    <player uni="10" code="1402253404" name="James Elias" checkname="ELIAS,JAMES" gp="0" oncourt="N">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="DNP"
+        oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0"></stats>
+    </player>
+  </team>
+  <plays>
+    <play id="0" period="1" time="30:00" clock="20:06:08" action="Start Game" />
+    <play id="1402253403" period="1" time="30:00" clock="20:06:08" action="Enter Game" pos="4,-22" />
+    <play id="1402253403" period="1" time="30:00" clock="20:06:15" action="Leave Game" />
+    <play id="1402253400" period="1" time="30:00" clock="20:10:13" action="Enter Game" />
+    <play id="1402253396" period="1" time="30:00" clock="20:10:15" action="Enter Game" />
+    <play id="1402253403" period="1" time="30:00" clock="20:10:16" action="Enter Game" />
+    <play id="1402253398" period="1" time="30:00" clock="20:10:19" action="Enter Game" />
+    <play id="1402879630" period="1" time="30:00" clock="20:10:23" action="Enter Game" />
+    <play id="1402251799" period="1" time="30:00" clock="20:10:24" action="Enter Game" />
+    <play id="1402251800" period="1" time="30:00" clock="20:10:26" action="Enter Game" />
+    <play id="1402251804" period="1" time="30:00" clock="20:10:28" action="Enter Game" />
+    <play id="1402251798" period="1" time="30:00" clock="20:10:35" action="Enter Game" />
+    <play id="1402253397" period="1" time="30:00" clock="20:10:48" action="Enter Game" />
+    <play id="1402253403" period="1" time="29:42" clock="20:11:16" action="FG Attempt" pos="4,-1" />
+    <play id="1402251800" period="1" time="29:41" clock="20:11:18" action="Def Rebound" />
+    <play id="1402879630" period="1" time="29:36" clock="20:11:23" action="FG Attempt" pos="1,-18" />
+    <play id="1402253397" period="1" time="29:34" clock="20:11:24" action="Def Rebound" />
+    <play id="1402253400" period="1" time="29:19" clock="20:11:40" action="3Pt Made" pos="1,21" />
+    <play id="1402253398" period="1" time="29:18" clock="20:11:40" action="Assist" />
+    <play id="1402251804" period="1" time="29:10" clock="20:11:49" action="Turnover" />
+    <play id="1402253403" period="1" time="29:09" clock="20:11:50" action="Steal" />
+    <play id="1402253398" period="1" time="29:06" clock="20:11:53" action="Turnover" />
+    <play id="1402251799" period="1" time="28:41" clock="20:12:17" action="FG Attempt" pos="2,7" />
+    <play id="1402251804" period="1" time="28:40" clock="20:12:18" action="Off Rebound" />
+    <play id="1402879630" period="1" time="28:37" clock="20:12:21" action="FG Made" pos="2,-3" />
+    <play id="1402251804" period="1" time="28:36" clock="20:12:22" action="Assist" />
+    <play id="1402253396" period="1" time="28:24" clock="20:12:35" action="FG Attempt" pos="14,-7" />
+    <play id="1402251800" period="1" time="28:23" clock="20:12:36" action="Def Rebound" />
+    <play id="1402251804" period="1" time="28:14" clock="20:12:46" action="Offensive Foul" />
+    <play id="1402251804" period="1" time="28:14" clock="20:12:46" action="Turnover" />
+    <play id="1402253406" period="1" time="27:57" clock="20:13:05" action="Charge Taken" />
+    <play id="1402879630" period="1" time="27:57" clock="20:13:05" action="Personal Foul" />
+    <play id="1402253397" period="1" time="27:57" clock="20:13:25" action="FG Attempt" pos="8,-9" />
+    <play id="1402253398" period="1" time="27:57" clock="20:13:26" action="Off Rebound" />
+    <play id="1402251804" period="1" time="27:57" clock="20:13:28" action="Personal Foul" />
+    <play id="1402251804" period="1" time="27:56" clock="20:13:33" action="Leave Game" />
+    <play id="1402251802" period="1" time="27:56" clock="20:13:33" action="Enter Game" />
+    <play id="1402253403" period="1" time="27:38" clock="20:13:51" action="Turnover" />
+    <play id="1402251802" period="1" time="27:37" clock="20:13:52" action="Steal" />
+    <play id="1402251800" period="1" time="27:18" clock="20:14:11" action="FG Attempt" pos="14,7" />
+    <play id="1402253400" period="1" time="27:17" clock="20:14:12" action="Def Rebound" />
+    <play id="1402253400" period="1" time="27:11" clock="20:14:19" action="3Pt Attempt" pos="21,-4" />
+    <play id="1402879630" period="1" time="27:09" clock="20:14:20" action="Def Rebound" />
+    <play id="1402251802" period="1" time="26:56" clock="20:14:33" action="3Pt Made" pos="14,16" />
+    <play id="1402251799" period="1" time="26:56" clock="20:14:34" action="Assist" />
+    <play id="1402251799" period="1" time="26:49" clock="20:14:45" action="Personal Foul" />
+    <play id="1402253398" period="1" time="26:23" clock="20:15:13" action="FT Made" />
+    <play id="1402253398" period="1" time="26:23" clock="20:15:13" action="FT Made" />
+    <play id="1402253403" period="1" time="25:45" clock="20:15:44" action="Personal Foul" />
+    <play id="1402251799" period="1" time="25:45" clock="20:16:04" action="FT Made" />
+    <play id="1402251799" period="1" time="25:45" clock="20:16:04" action="FT Made" />
+    <play id="1402253396" period="1" time="25:10" clock="20:16:22" action="FG Attempt" pos="3,-3" />
+    <play id="1402251800" period="1" time="25:09" clock="20:16:23" action="Def Rebound" />
+    <play id="1402251799" period="1" time="24:36" clock="20:16:38" action="Turnover" />
+    <play id="1402253400" period="1" time="24:15" clock="20:16:59" action="3Pt Attempt" pos="1,-21" />
+    <play id="1402879630" period="1" time="24:13" clock="20:17:02" action="Block" />
+    <play id="1402879630" period="1" time="24:12" clock="20:17:02" action="Def Rebound" />
+    <play id="1402251802" period="1" time="24:08" clock="20:17:06" action="FG Made" pos="2,2" />
+    <play id="1402251798" period="1" time="24:07" clock="20:17:07" action="Assist" />
+    <play id="1402253398" period="1" time="24:00" clock="20:17:14" action="FG Made" pos="2,-2" />
+    <play id="1402879630" period="1" time="23:44" clock="20:17:30" action="FG Made" pos="2,3" />
+    <play id="1402251799" period="1" time="23:44" clock="20:17:30" action="Assist" />
+    <play id="1402253398" period="1" time="23:33" clock="20:17:41" action="FG Attempt" pos="15,8" />
+    <play id="1402253403" period="1" time="23:33" clock="20:17:41" action="Off Rebound" />
+    <play id="1402253398" period="1" time="23:25" clock="20:17:49" action="FG Made" pos="2,-3" />
+    <play id="1402253403" period="1" time="23:20" clock="20:17:54" action="Assist" />
+    <play id="1402251799" period="1" time="23:10" clock="20:18:03" action="FG Attempt" pos="2,-14" />
+    <play id="1402253400" period="1" time="23:10" clock="20:18:04" action="Def Rebound" />
+    <play id="1402253398" period="1" time="22:57" clock="20:18:17" action="3Pt Attempt" pos="17,13" />
+    <play id="1402253403" period="1" time="22:57" clock="20:18:17" action="Off Rebound" />
+    <play id="1402253397" period="1" time="22:53" clock="20:18:21" action="3Pt Made" pos="22,-2" />
+    <play id="1402253403" period="1" time="22:52" clock="20:18:21" action="Assist" />
+    <play id="1402251798" period="1" time="22:40" clock="20:18:34" action="Turnover" />
+    <play id="1402253396" period="1" time="22:38" clock="20:18:36" action="Steal" />
+    <play id="1402879630" period="1" time="22:33" clock="20:18:49" action="Leave Game" />
+    <play id="1402251798" period="1" time="22:33" clock="20:18:49" action="Leave Game" />
+    <play id="1402251803" period="1" time="22:33" clock="20:18:49" action="Enter Game" />
+    <play id="1402251805" period="1" time="22:33" clock="20:18:49" action="Enter Game" />
+    <play id="1402253403" period="1" time="22:18" clock="20:19:04" action="FG Made" pos="3,2" />
+    <play id="1402253397" period="1" time="22:17" clock="20:19:04" action="Assist" />
+    <play id="1402251802" period="1" time="22:04" clock="20:19:18" action="FG Attempt" pos="15,-3" />
+    <play id="1402253398" period="1" time="22:03" clock="20:19:19" action="Def Rebound" />
+    <play id="1402251799" period="1" time="21:48" clock="20:19:35" action="Personal Foul" />
+    <play id="1402253398" period="1" time="21:18" clock="20:20:06" action="FT Attempt" />
+    <play id="1402253406" period="1" time="21:18" clock="20:20:06" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402253398" period="1" time="21:18" clock="20:20:06" action="FT Made" />
+    <play id="1402253403" period="1" time="20:59" clock="20:20:27" action="Personal Foul" />
+    <play id="1402251805" period="1" time="20:48" clock="20:20:39" action="Offensive Foul" />
+    <play id="1402251805" period="1" time="20:48" clock="20:20:39" action="Turnover" />
+    <play id="1402253406" period="1" time="20:40" clock="20:20:50" action="Charge Taken" pos="3,2" />
+    <play id="1402253396" period="1" time="20:40" clock="20:20:50" action="FG Attempt" pos="3,2" />
+    <play id="1402251803" period="1" time="20:39" clock="20:20:50" action="Def Rebound" />
+    <play id="1402251800" period="1" time="20:32" clock="20:20:57" action="FG Made" pos="3,-2" />
+    <play id="1402253397" period="1" time="20:23" clock="20:21:06" action="Turnover" />
+    <play id="1402253403" period="1" time="20:23" clock="20:21:12" action="Leave Game" />
+    <play id="1402253402" period="1" time="20:23" clock="20:21:12" action="Enter Game" />
+    <play id="1402251800" period="1" time="19:33" clock="20:21:35" action="FG Made" pos="3,4" />
+    <play id="1402253400" period="1" time="19:16" clock="20:21:52" action="3Pt Attempt" pos="12,-18" />
+    <play id="1402251799" period="1" time="19:14" clock="20:21:54" action="Def Rebound" />
+    <play id="1402251799" period="1" time="19:08" clock="20:22:00" action="Turnover" />
+    <play id="1402253396" period="1" time="19:08" clock="20:22:01" action="Steal" />
+    <play id="1402253396" period="1" time="19:04" clock="20:22:04" action="3Pt Made" pos="13,-18" />
+    <play id="1402251799" period="1" time="18:55" clock="20:22:14" action="FG Made" pos="1,4" />
+    <play id="1402253400" period="1" time="18:30" clock="20:22:39" action="FG Attempt" pos="4,-12" />
+    <play id="1402251807" period="1" time="18:28" clock="20:22:41" action="Def Rebound" />
+    <play id="1402251800" period="1" time="18:28" clock="20:22:41" action="Turnover" />
+    <play id="1402251800" period="1" time="18:21" clock="20:22:48" action="FG Made" pos="2,4" />
+    <play id="1402253400" period="1" time="18:19" clock="20:22:49" action="FG Made" pos="4,-2" />
+    <play id="1402251803" period="1" time="18:00" clock="20:23:08" action="FG Attempt" pos="4,1" />
+    <play id="1402251802" period="1" time="18:00" clock="20:23:09" action="Off Rebound" />
+    <play id="1402251803" period="1" time="17:57" clock="20:23:11" action="FG Attempt" pos="3,-3" />
+    <play id="1402251807" period="1" time="17:56" clock="20:23:12" action="Off Rebound" pos="3,1" />
+    <play id="1402251803" period="1" time="17:56" clock="20:23:12" action="FG Attempt" pos="3,1" />
+    <play id="1402251802" period="1" time="17:55" clock="20:23:13" action="Off Rebound" />
+    <play id="1402251802" period="1" time="17:54" clock="20:23:14" action="FG Made" pos="3,-2" />
+    <play id="1402253398" period="1" time="17:50" clock="20:23:18" action="FG Made" pos="2,-4" />
+    <play id="1402251799" period="1" time="17:26" clock="20:23:42" action="FG Attempt" pos="14,7" />
+    <play id="1402253396" period="1" time="17:25" clock="20:23:44" action="Def Rebound" />
+    <play id="1402251803" period="1" time="17:19" clock="20:23:52" action="Personal Foul" />
+    <play id="1402253396" period="1" time="17:19" clock="20:24:00" action="Leave Game" />
+    <play id="1402253400" period="1" time="17:19" clock="20:24:01" action="Leave Game" />
+    <play id="1402253399" period="1" time="17:19" clock="20:24:03" action="Enter Game" />
+    <play id="1402253405" period="1" time="17:19" clock="20:24:04" action="Enter Game" />
+    <play id="1402251799" period="1" time="17:19" clock="20:24:08" action="Leave Game" />
+    <play id="1402251803" period="1" time="17:19" clock="20:24:08" action="Leave Game" />
+    <play id="1402251800" period="1" time="17:19" clock="20:24:08" action="Leave Game" />
+    <play id="1402251802" period="1" time="17:19" clock="20:24:08" action="Leave Game" />
+    <play id="1402251805" period="1" time="17:19" clock="20:24:08" action="Leave Game" />
+    <play id="1402251800" period="1" time="17:19" clock="20:24:09" action="Enter Game" />
+    <play id="1402251801" period="1" time="17:19" clock="20:24:11" action="Enter Game" />
+    <play id="1402879630" period="1" time="17:19" clock="20:24:12" action="Enter Game" />
+    <play id="1402251803" period="1" time="17:19" clock="20:24:13" action="Enter Game" />
+    <play id="1402880284" period="1" time="17:19" clock="20:24:15" action="Enter Game" />
+    <play id="1402253398" period="1" time="17:19" clock="20:24:28" action="FT Made" />
+    <play id="1402253398" period="1" time="17:19" clock="20:24:28" action="FT Made" />
+    <play id="1402879630" period="1" time="16:58" clock="20:24:51" action="FG Attempt" pos="3,3" />
+    <play id="1402251803" period="1" time="16:55" clock="20:24:54" action="Off Rebound" />
+    <play id="1402251803" period="1" time="16:55" clock="20:24:54" action="Putback Att" />
+    <play id="1402251803" period="1" time="16:51" clock="20:24:58" action="Off Rebound" />
+    <play id="1402251803" period="1" time="16:47" clock="20:25:02" action="FG Made" pos="5,0" />
+    <play id="1402253398" period="1" time="16:44" clock="20:25:04" action="FG Attempt" pos="15,-9" />
+    <play id="1402251803" period="1" time="16:42" clock="20:25:06" action="Def Rebound" />
+    <play id="1402251800" period="1" time="16:38" clock="20:25:11" action="FG Attempt" pos="13,9" />
+    <play id="1402879630" period="1" time="16:37" clock="20:25:12" action="Off Rebound" />
+    <play id="1402879630" period="1" time="16:29" clock="20:25:19" action="FG Made" pos="2,-2" />
+    <play id="1402251803" period="1" time="16:28" clock="20:25:20" action="Assist" />
+    <play id="1402253398" period="1" time="16:15" clock="20:25:34" action="FG Made" pos="2,14" />
+    <play id="1402251801" period="1" time="16:01" clock="20:25:47" action="FG Attempt" pos="5,-9" />
+    <play id="1402251803" period="1" time="16:01" clock="20:25:47" action="Off Rebound" />
+    <play id="1402251800" period="1" time="15:57" clock="20:25:51" action="FG Made" pos="7,-1" />
+    <play id="1402253402" period="1" time="15:39" clock="20:26:09" action="FG Attempt" pos="2,-2" />
+    <play id="1402879630" period="1" time="15:38" clock="20:26:10" action="Def Rebound" />
+    <play id="1402251803" period="1" time="15:27" clock="20:26:23" action="Leave Game" />
+    <play id="1402251798" period="1" time="15:27" clock="20:26:23" action="Enter Game" />
+    <play id="1402251800" period="1" time="15:12" clock="20:26:38" action="FG Attempt" pos="4,0" />
+    <play id="1402253399" period="1" time="15:09" clock="20:26:42" action="Def Rebound" />
+    <play id="1402253398" period="1" time="14:58" clock="20:26:52" action="3Pt Made" pos="14,-17" />
+    <play id="1402251800" period="1" time="14:45" clock="20:27:05" action="Turnover" />
+    <play id="1402253399" period="1" time="14:45" clock="20:27:05" action="Steal" />
+    <play id="1402253398" period="1" time="14:39" clock="20:27:11" action="FG Made" pos="3,-3" />
+    <play id="1402251800" period="1" time="14:19" clock="20:27:31" action="FG Attempt" pos="6,-4" />
+    <play id="1402253399" period="1" time="14:17" clock="20:27:33" action="Block" />
+    <play id="1402253405" period="1" time="14:16" clock="20:27:34" action="Def Rebound" />
+    <play id="1402251800" period="1" time="14:13" clock="20:27:40" action="Personal Foul" />
+    <play id="1402253405" period="1" time="13:47" clock="20:28:11" action="FT Attempt" />
+    <play id="1402253402" period="1" time="13:46" clock="20:28:12" action="Off Rebound" />
+    <play id="1402253402" period="1" time="13:45" clock="20:28:13" action="FG Made" pos="2,3" />
+    <play id="1402251801" period="1" time="13:29" clock="20:28:29" action="3Pt Attempt" pos="1,21" />
+    <play id="1402879630" period="1" time="13:28" clock="20:28:30" action="Off Rebound" />
+    <play id="1402253398" period="1" time="13:25" clock="20:28:33" action="Personal Foul" />
+    <play id="1402880284" period="1" time="13:25" clock="20:28:43" action="Leave Game" />
+    <play id="1402251804" period="1" time="13:25" clock="20:28:43" action="Enter Game" />
+    <play id="1402251801" period="1" time="13:12" clock="20:28:56" action="FG Attempt" pos="3,-12" />
+    <play id="1402251807" period="1" time="11:33" clock="20:29:43" action="Off Rebound" />
+    <play id="1402253397" period="1" time="11:33" clock="20:29:43" action="Personal Foul" />
+    <play id="1402251800" period="1" time="11:33" clock="20:30:04" action="Leave Game" />
+    <play id="1402251799" period="1" time="11:33" clock="20:30:05" action="Enter Game" />
+    <play id="1402251799" period="1" time="11:33" clock="20:30:16" action="FT Attempt" />
+    <play id="1402251807" period="1" time="11:33" clock="20:30:16" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402251799" period="1" time="11:33" clock="20:30:16" action="FT Attempt" />
+    <play id="1402251807" period="1" time="10:11" clock="20:30:52" action="Off Rebound" pos="3,-2" />
+    <play id="1402879630" period="1" time="10:11" clock="20:30:52" action="FG Attempt" pos="3,-2" />
+    <play id="1402253398" period="1" time="10:11" clock="20:30:53" action="Def Rebound" />
+    <play id="1402253398" period="1" time="9:59" clock="20:31:04" action="FG Made" pos="2,-2" />
+    <play id="1402879630" period="1" time="9:56" clock="20:31:09" action="Personal Foul" />
+    <play id="1402251801" period="1" time="9:54" clock="20:31:18" action="Leave Game" />
+    <play id="1402879630" period="1" time="9:54" clock="20:31:18" action="Leave Game" />
+    <play id="1402251803" period="1" time="9:54" clock="20:31:18" action="Enter Game" />
+    <play id="1402251802" period="1" time="9:54" clock="20:31:18" action="Enter Game" />
+    <play id="1402253398" period="1" time="9:54" clock="20:31:28" action="FT Attempt" />
+    <play id="1402251803" period="1" time="9:53" clock="20:31:29" action="Def Rebound" />
+    <play id="1402251798" period="1" time="9:36" clock="20:31:47" action="3Pt Attempt" pos="2,-21" />
+    <play id="1402253397" period="1" time="9:32" clock="20:31:51" action="Def Rebound" />
+    <play id="1402253398" period="1" time="9:26" clock="20:31:56" action="FG Attempt" pos="12,12" />
+    <play id="1402251802" period="1" time="9:25" clock="20:31:57" action="Def Rebound" />
+    <play id="1402251802" period="1" time="9:17" clock="20:32:06" action="3Pt Attempt" pos="18,-9" />
+    <play id="1402253399" period="1" time="9:16" clock="20:32:07" action="Def Rebound" />
+    <play id="1402253398" period="1" time="9:08" clock="20:32:15" action="FG Attempt" pos="4,2" />
+    <play id="1402251802" period="1" time="9:07" clock="20:32:16" action="Def Rebound" />
+    <play id="1402251799" period="1" time="8:46" clock="20:32:31" action="FG Attempt" pos="5,-2" />
+    <play id="1402253398" period="1" time="8:45" clock="20:32:31" action="Def Rebound" />
+    <play id="1402253402" period="1" time="8:37" clock="20:32:39" action="FG Attempt" pos="4,-1" />
+    <play id="1402251803" period="1" time="8:36" clock="20:32:40" action="Def Rebound" />
+    <play id="1402251802" period="1" time="8:22" clock="20:32:54" action="3Pt Made" pos="15,-15" />
+    <play id="1402251798" period="1" time="8:21" clock="20:32:55" action="Assist" />
+    <play id="1402253399" period="1" time="8:05" clock="20:33:12" action="3Pt Made" pos="15,-15" />
+    <play id="1402253397" period="1" time="8:04" clock="20:33:12" action="Assist" />
+    <play id="1402251799" period="1" time="7:43" clock="20:33:25" action="FG Made" pos="3,-3" />
+    <play id="1402253405" period="1" time="7:34" clock="20:33:32" action="Turnover" />
+    <play id="1402253402" period="1" time="7:34" clock="20:33:36" action="Leave Game" />
+    <play id="1402253397" period="1" time="7:34" clock="20:33:38" action="Leave Game" />
+    <play id="1402253398" period="1" time="7:34" clock="20:33:39" action="Leave Game" />
+    <play id="1402253396" period="1" time="7:34" clock="20:33:41" action="Enter Game" />
+    <play id="1402253400" period="1" time="7:34" clock="20:33:42" action="Enter Game" />
+    <play id="1402253403" period="1" time="7:34" clock="20:33:43" action="Enter Game" />
+    <play id="1402251804" period="1" time="7:28" clock="20:33:55" action="Leave Game" />
+    <play id="1402251805" period="1" time="7:28" clock="20:33:56" action="Enter Game" />
+    <play id="1402251802" period="1" time="7:24" clock="20:34:00" action="FG Attempt" pos="2,-8" />
+    <play id="1402253399" period="1" time="7:23" clock="20:34:01" action="Def Rebound" />
+    <play id="1402253399" period="1" time="7:13" clock="20:34:12" action="FG Made" pos="3,-3" />
+    <play id="1402253403" period="1" time="7:12" clock="20:34:12" action="Assist" />
+    <play id="1402251799" period="1" time="7:02" clock="20:34:22" action="3Pt Attempt" pos="18,12" />
+    <play id="1402253396" period="1" time="7:01" clock="20:34:23" action="Def Rebound" />
+    <play id="1402253396" period="1" time="6:34" clock="20:34:37" action="FG Attempt" pos="3,-4" />
+    <play id="1402251803" period="1" time="6:33" clock="20:34:38" action="Def Rebound" />
+    <play id="1402251802" period="1" time="6:23" clock="20:34:49" action="3Pt Attempt" pos="18,13" />
+    <play id="1402253396" period="1" time="6:20" clock="20:34:52" action="Def Rebound" />
+    <play id="1402253400" period="1" time="6:13" clock="20:34:59" action="3Pt Attempt" pos="8,19" />
+    <play id="1402251805" period="1" time="6:12" clock="20:34:59" action="Def Rebound" />
+    <play id="1402251807" period="1" time="5:56" clock="20:35:15" action="Turnover" />
+    <play id="1402253399" period="1" time="5:55" clock="20:35:16" action="Steal" />
+    <play id="1402253399" period="1" time="5:54" clock="20:35:18" action="3Pt Attempt" pos="9,20" />
+    <play id="1402251802" period="1" time="5:53" clock="20:35:18" action="Def Rebound" />
+    <play id="1402251798" period="1" time="5:39" clock="20:35:41" action="Leave Game" />
+    <play id="1402251805" period="1" time="5:39" clock="20:35:41" action="Leave Game" />
+    <play id="1402251800" period="1" time="5:39" clock="20:35:41" action="Enter Game" />
+    <play id="1402879630" period="1" time="5:39" clock="20:35:41" action="Enter Game" />
+    <play id="1402879630" period="1" time="5:39" clock="20:35:51" action="3Pt Attempt" pos="12,-17" />
+    <play id="1402251800" period="1" time="5:39" clock="20:35:52" action="Off Rebound" />
+    <play id="1402251799" period="1" time="5:35" clock="20:36:04" action="Turnover" />
+    <play id="1402253406" period="1" time="5:35" clock="20:36:11" action="Time Out" />
+    <play id="1402251799" period="1" time="5:35" clock="20:36:12" action="Leave Game" />
+    <play id="1402251803" period="1" time="5:35" clock="20:36:12" action="Leave Game" />
+    <play id="1402251800" period="1" time="5:35" clock="20:36:12" action="Leave Game" />
+    <play id="1402251802" period="1" time="5:35" clock="20:36:12" action="Leave Game" />
+    <play id="1402879630" period="1" time="5:35" clock="20:36:12" action="Leave Game" />
+    <play id="1402251800" period="1" time="5:35" clock="20:37:13" action="Enter Game" />
+    <play id="1402879630" period="1" time="5:35" clock="20:37:15" action="Enter Game" />
+    <play id="1402251799" period="1" time="5:35" clock="20:37:17" action="Enter Game" />
+    <play id="1402251805" period="1" time="5:35" clock="20:37:18" action="Enter Game" />
+    <play id="1402251803" period="1" time="5:35" clock="20:37:25" action="Enter Game" />
+    <play id="1402253403" period="1" time="3:44" clock="20:37:33" action="Turnover" />
+    <play id="1402251803" period="1" time="3:10" clock="20:37:56" action="Turnover" />
+    <play id="1402253400" period="1" time="3:09" clock="20:37:57" action="Steal" />
+    <play id="1402253396" period="1" time="2:51" clock="20:38:17" action="Offensive Foul" />
+    <play id="1402253396" period="1" time="2:51" clock="20:38:17" action="Turnover" />
+    <play id="1402251807" period="1" time="2:31" clock="20:38:36" action="Charge Taken" pos="9,-4" />
+    <play id="1402879630" period="1" time="2:31" clock="20:38:36" action="FG Attempt" pos="9,-4" />
+    <play id="1402253400" period="1" time="2:30" clock="20:38:37" action="Def Rebound" />
+    <play id="1402253396" period="1" time="2:22" clock="20:38:45" action="3Pt Made" pos="15,-16" />
+    <play id="1402253405" period="1" time="2:21" clock="20:38:46" action="Assist" />
+    <play id="1402251799" period="1" time="2:12" clock="20:38:55" action="Turnover" />
+    <play id="1402253396" period="1" time="2:10" clock="20:38:57" action="Steal" />
+    <play id="1402253396" period="1" time="2:02" clock="20:39:05" action="3Pt Attempt" pos="18,12" />
+    <play id="1402251805" period="1" time="2:02" clock="20:39:05" action="Def Rebound" />
+    <play id="1402251805" period="1" time="1:53" clock="20:39:14" action="FG Attempt" pos="2,3" />
+    <play id="1402253403" period="1" time="1:52" clock="20:39:15" action="Block" />
+    <play id="1402253403" period="1" time="1:52" clock="20:39:15" action="Def Rebound" />
+    <play id="1402253405" period="1" time="1:47" clock="20:39:23" action="Leave Game" />
+    <play id="1402253398" period="1" time="1:47" clock="20:39:25" action="Enter Game" />
+    <play id="1402253396" period="1" time="1:19" clock="20:39:48" action="FG Attempt" pos="5,-15" />
+    <play id="1402251803" period="1" time="1:18" clock="20:39:49" action="Def Rebound" />
+    <play id="1402251800" period="1" time="1:00" clock="20:40:04" action="FG Attempt" pos="2,13" />
+    <play id="1402253400" period="1" time="0:58" clock="20:40:05" action="Def Rebound" />
+    <play id="1402253398" period="1" time="0:37" clock="20:40:26" action="FG Attempt" pos="12,-8" />
+    <play id="1402879630" period="1" time="0:36" clock="20:40:28" action="Def Rebound" />
+    <play id="1402251799" period="1" time="0:26" clock="20:40:38" action="FG Attempt" pos="15,-4" />
+    <play id="1402253396" period="1" time="0:24" clock="20:40:40" action="Def Rebound" />
+    <play id="0" period="1" time="0:00" clock="20:41:07" action="Half time" />
+    <play id="1402253403" period="2" time="30:00" clock="20:41:09" action="Leave Game" />
+    <play id="1402253396" period="2" time="30:00" clock="20:41:09" action="Leave Game" />
+    <play id="1402253400" period="2" time="30:00" clock="20:41:09" action="Leave Game" />
+    <play id="1402253399" period="2" time="30:00" clock="20:41:09" action="Leave Game" />
+    <play id="1402253398" period="2" time="30:00" clock="20:41:09" action="Leave Game" />
+    <play id="1402251799" period="2" time="30:00" clock="20:41:11" action="Leave Game" />
+    <play id="1402251803" period="2" time="30:00" clock="20:41:11" action="Leave Game" />
+    <play id="1402251800" period="2" time="30:00" clock="20:41:11" action="Leave Game" />
+    <play id="1402879630" period="2" time="30:00" clock="20:41:11" action="Leave Game" />
+    <play id="1402251805" period="2" time="30:00" clock="20:41:11" action="Leave Game" />
+    <play id="1402251800" period="2" time="30:00" clock="20:45:06" action="Enter Game" />
+    <play id="1402879630" period="2" time="30:00" clock="20:45:08" action="Enter Game" />
+    <play id="1402251804" period="2" time="30:00" clock="20:45:11" action="Enter Game" />
+    <play id="1402253402" period="2" time="30:00" clock="20:45:24" action="Enter Game" />
+    <play id="1402253399" period="2" time="30:00" clock="20:45:26" action="Enter Game" />
+    <play id="1402253399" period="2" time="30:00" clock="20:45:27" action="Leave Game" />
+    <play id="1402253397" period="2" time="30:00" clock="20:45:28" action="Enter Game" />
+    <play id="1402253396" period="2" time="30:00" clock="20:45:28" action="Enter Game" />
+    <play id="1402253403" period="2" time="30:00" clock="20:45:30" action="Enter Game" />
+    <play id="1402253398" period="2" time="30:00" clock="20:45:32" action="Enter Game" />
+    <play id="1402251799" period="2" time="30:00" clock="20:45:36" action="Enter Game" />
+    <play id="1402251798" period="2" time="30:00" clock="20:45:40" action="Enter Game" />
+    <play id="1402251799" period="2" time="29:29" clock="20:46:12" action="3Pt Attempt" pos="21,0" />
+    <play id="1402253406" period="2" time="29:25" clock="20:46:15" action="Def Rebound" />
+    <play id="1402879630" period="2" time="29:24" clock="20:46:18" action="Personal Foul" />
+    <play id="1402253398" period="2" time="29:08" clock="20:46:43" action="FT Made" />
+    <play id="1402253398" period="2" time="29:08" clock="20:46:43" action="FT Made" />
+    <play id="1402251798" period="2" time="28:55" clock="20:46:51" action="Turnover" />
+    <play id="1402251800" period="2" time="28:12" clock="20:47:35" action="Personal Foul" />
+    <play id="1402253396" period="2" time="27:50" clock="20:47:58" action="FT Made" />
+    <play id="1402253396" period="2" time="27:50" clock="20:47:59" action="FT Made" />
+    <play id="1402251800" period="2" time="27:14" clock="20:48:34" action="3Pt Made" pos="22,2" />
+    <play id="1402251799" period="2" time="27:13" clock="20:48:35" action="Assist" />
+    <play id="1402253397" period="2" time="26:57" clock="20:48:51" action="3Pt Attempt" pos="13,17" />
+    <play id="1402251799" period="2" time="26:56" clock="20:48:52" action="Def Rebound" />
+    <play id="1402251799" period="2" time="26:50" clock="20:48:58" action="FG Attempt" pos="3,2" />
+    <play id="1402251804" period="2" time="26:49" clock="20:48:59" action="Off Rebound" />
+    <play id="1402251804" period="2" time="26:48" clock="20:49:00" action="FG Made" pos="2,-2" />
+    <play id="1402253396" period="2" time="26:37" clock="20:49:11" action="Turnover" />
+    <play id="1402251800" period="2" time="26:36" clock="20:49:12" action="Steal" />
+    <play id="1402251800" period="2" time="26:31" clock="20:49:17" action="FG Attempt" pos="16,12" />
+    <play id="1402253398" period="2" time="26:30" clock="20:49:18" action="Def Rebound" />
+    <play id="1402253398" period="2" time="26:24" clock="20:49:24" action="FG Attempt" pos="14,7" />
+    <play id="1402251807" period="2" time="26:08" clock="20:49:40" action="Def Rebound" />
+    <play id="1402253397" period="2" time="26:02" clock="20:49:46" action="Turnover" />
+    <play id="1402251800" period="2" time="26:01" clock="20:49:47" action="Steal" />
+    <play id="1402253396" period="2" time="25:38" clock="20:50:10" action="3Pt Attempt" pos="17,14" />
+    <play id="1402251798" period="2" time="25:36" clock="20:50:16" action="Leave Game" />
+    <play id="1402251802" period="2" time="25:36" clock="20:50:16" action="Enter Game" />
+    <play id="1402251807" period="2" time="25:16" clock="20:50:37" action="Def Rebound" pos="3,-3" />
+    <play id="1402879630" period="2" time="25:16" clock="20:50:37" action="FG Attempt" pos="3,-3" />
+    <play id="1402253403" period="2" time="25:15" clock="20:50:38" action="Def Rebound" />
+    <play id="1402879630" period="2" time="25:10" clock="20:50:43" action="Personal Foul" />
+    <play id="1402879630" period="2" time="25:10" clock="20:50:49" action="Leave Game" />
+    <play id="1402251805" period="2" time="25:10" clock="20:50:49" action="Enter Game" />
+    <play id="1402253403" period="2" time="24:53" clock="20:51:06" action="FG Made" pos="1,2" />
+    <play id="1402253398" period="2" time="24:51" clock="20:51:07" action="Assist" />
+    <play id="1402251800" period="2" time="24:42" clock="20:51:17" action="Turnover" />
+    <play id="1402253397" period="2" time="24:41" clock="20:51:18" action="Steal" />
+    <play id="1402253398" period="2" time="24:27" clock="20:51:33" action="Offensive Foul" />
+    <play id="1402253398" period="2" time="24:27" clock="20:51:33" action="Turnover" />
+    <play id="1402251799" period="2" time="24:27" clock="20:51:36" action="Charge Taken" />
+    <play id="1402251804" period="2" time="24:27" clock="20:51:45" action="Leave Game" />
+    <play id="1402880284" period="2" time="24:27" clock="20:51:45" action="Enter Game" />
+    <play id="1402880284" period="2" time="24:07" clock="20:52:07" action="FG Made" pos="2,-16" />
+    <play id="1402251802" period="2" time="24:06" clock="20:52:07" action="Assist" />
+    <play id="1402251805" period="2" time="23:36" clock="20:52:27" action="Personal Foul" />
+    <play id="1402251799" period="2" time="23:36" clock="20:52:36" action="Leave Game" />
+    <play id="1402251803" period="2" time="23:36" clock="20:52:36" action="Enter Game" />
+    <play id="1402251803" period="2" time="23:18" clock="20:52:57" action="Personal Foul" />
+    <play id="1402253396" period="2" time="22:47" clock="20:53:16" action="3Pt Attempt" pos="11,-18" />
+    <play id="1402251802" period="2" time="22:46" clock="20:53:17" action="Def Rebound" />
+    <play id="1402880284" period="2" time="22:31" clock="20:53:32" action="FG Attempt" pos="2,-13" />
+    <play id="1402251803" period="2" time="22:30" clock="20:53:33" action="Off Rebound" />
+    <play id="1402251803" period="2" time="22:29" clock="20:53:35" action="FG Made" pos="1,-3" />
+    <play id="1402253402" period="2" time="22:23" clock="20:53:42" action="Leave Game" />
+    <play id="1402253405" period="2" time="22:23" clock="20:53:44" action="Enter Game" />
+    <play id="1402253405" period="2" time="22:23" clock="20:53:46" action="Turnover" />
+    <play id="1402253403" period="2" time="22:23" clock="20:53:47" action="Leave Game" />
+    <play id="1402253396" period="2" time="22:23" clock="20:53:47" action="Leave Game" />
+    <play id="1402253405" period="2" time="22:23" clock="20:53:47" action="Leave Game" />
+    <play id="1402253397" period="2" time="22:23" clock="20:53:47" action="Leave Game" />
+    <play id="1402253398" period="2" time="22:23" clock="20:53:47" action="Leave Game" />
+    <play id="1402253398" period="2" time="22:23" clock="20:53:52" action="Enter Game" />
+    <play id="1402253402" period="2" time="22:23" clock="20:53:56" action="Enter Game" />
+    <play id="1402253399" period="2" time="22:23" clock="20:53:57" action="Enter Game" />
+    <play id="1402251800" period="2" time="22:23" clock="20:54:02" action="3Pt Attempt" pos="19,-12" />
+    <play id="1402251803" period="2" time="22:23" clock="20:54:03" action="Off Rebound" />
+    <play id="1402251803" period="2" time="22:23" clock="20:54:05" action="FG Attempt" pos="3,-2" />
+    <play id="1402251803" period="2" time="22:23" clock="20:54:05" action="Off Rebound" />
+    <play id="1402251803" period="2" time="22:23" clock="20:54:07" action="FG Attempt" pos="4,-1" />
+    <play id="1402253402" period="2" time="22:23" clock="20:54:10" action="Block" />
+    <play id="1402253406" period="2" time="22:23" clock="20:54:12" action="Def Rebound" />
+    <play id="1402253402" period="2" time="22:23" clock="20:54:12" action="Turnover" />
+    <play id="1402253397" period="2" time="22:23" clock="20:54:18" action="Enter Game" />
+    <play id="1402253397" period="2" time="22:23" clock="20:54:23" action="Personal Foul" />
+    <play id="1402251805" period="2" time="22:23" clock="20:54:41" action="FT Made" />
+    <play id="1402251805" period="2" time="22:23" clock="20:54:41" action="FT Made" />
+    <play id="1402253400" period="2" time="22:23" clock="20:54:46" action="Enter Game" />
+    <play id="1402880284" period="2" time="22:23" clock="20:54:57" action="Personal Foul" />
+    <play id="1402253400" period="2" time="22:02" clock="20:55:19" action="3Pt Attempt" pos="5,21" />
+    <play id="1402251803" period="2" time="22:02" clock="20:55:20" action="Def Rebound" />
+    <play id="1402253399" period="2" time="21:22" clock="20:55:31" action="Personal Foul" />
+    <play id="1402251802" period="2" time="20:20" clock="20:55:52" action="FG Made" pos="11,-12" />
+    <play id="1402253398" period="2" time="20:07" clock="20:56:05" action="3Pt Attempt" pos="15,-16" />
+    <play id="1402251800" period="2" time="20:06" clock="20:56:06" action="Block" />
+    <play id="1402251802" period="2" time="20:05" clock="20:56:08" action="Def Rebound" />
+    <play id="1402251800" period="2" time="20:03" clock="20:56:09" action="FG Made" pos="3,-3" />
+    <play id="1402253399" period="2" time="19:35" clock="20:56:37" action="FG Made" pos="2,3" />
+    <play id="1402253397" period="2" time="19:19" clock="20:56:56" action="Personal Foul" />
+    <play id="1402251805" period="2" time="18:55" clock="20:57:21" action="FT Made" />
+    <play id="1402251805" period="2" time="18:55" clock="20:57:21" action="FT Made" />
+    <play id="1402253402" period="2" time="18:42" clock="20:57:33" action="3Pt Attempt" pos="4,22" />
+    <play id="1402880284" period="2" time="18:41" clock="20:57:35" action="Def Rebound" />
+    <play id="1402251800" period="2" time="18:26" clock="20:57:49" action="3Pt Attempt" pos="19,-15" />
+    <play id="1402253406" period="2" time="17:26" clock="20:58:20" action="Def Rebound" pos="1,-4" />
+    <play id="1402253397" period="2" time="17:26" clock="20:58:20" action="FG Attempt" pos="1,-4" />
+    <play id="1402253402" period="2" time="17:25" clock="20:58:21" action="Off Rebound" />
+    <play id="1402253402" period="2" time="17:23" clock="20:58:23" action="FG Attempt" pos="2,-3" />
+    <play id="1402253406" period="2" time="17:02" clock="20:58:44" action="Off Rebound" pos="12,18" />
+    <play id="1402253398" period="2" time="17:02" clock="20:58:44" action="3Pt Attempt" pos="12,18" />
+    <play id="1402251805" period="2" time="17:02" clock="20:58:45" action="Def Rebound" />
+    <play id="1402251800" period="2" time="16:53" clock="20:58:53" action="FG Made" pos="4,-3" />
+    <play id="1402253400" period="2" time="16:38" clock="20:59:08" action="3Pt Attempt" pos="19,-12" />
+    <play id="1402253402" period="2" time="16:38" clock="20:59:12" action="Leave Game" />
+    <play id="1402253396" period="2" time="16:38" clock="20:59:12" action="Enter Game" />
+    <play id="1402251805" period="2" time="16:38" clock="20:59:13" action="Leave Game" />
+    <play id="1402251801" period="2" time="16:38" clock="20:59:15" action="Enter Game" />
+    <play id="1402251800" period="2" time="16:38" clock="20:59:18" action="Leave Game" />
+    <play id="1402251798" period="2" time="16:38" clock="20:59:18" action="Enter Game" />
+    <play id="1402251807" period="2" time="16:07" clock="20:59:41" action="Def Rebound" pos="5,-3" />
+    <play id="1402251803" period="2" time="16:07" clock="20:59:41" action="FG Attempt" pos="5,-3" />
+    <play id="1402880284" period="2" time="16:06" clock="20:59:42" action="Off Rebound" />
+    <play id="1402251801" period="2" time="16:01" clock="20:59:47" action="FG Attempt" pos="5,-2" />
+    <play id="1402251803" period="2" time="15:59" clock="20:59:49" action="Off Rebound" />
+    <play id="1402253406" period="2" time="15:56" clock="20:59:53" action="Jump Ball Win" />
+    <play id="1402253397" period="2" time="15:56" clock="21:00:11" action="FG Attempt" pos="14,10" />
+    <play id="1402251803" period="2" time="15:55" clock="21:00:20" action="Leave Game" />
+    <play id="1402251802" period="2" time="15:55" clock="21:00:20" action="Leave Game" />
+    <play id="1402880284" period="2" time="15:55" clock="21:00:20" action="Leave Game" />
+    <play id="1402251799" period="2" time="15:55" clock="21:00:20" action="Enter Game" />
+    <play id="1402879630" period="2" time="15:55" clock="21:00:20" action="Enter Game" />
+    <play id="1402251804" period="2" time="15:55" clock="21:00:20" action="Enter Game" />
+    <play id="1402253397" period="2" time="15:55" clock="21:00:24" action="Leave Game" />
+    <play id="1402253403" period="2" time="15:55" clock="21:00:24" action="Enter Game" />
+    <play id="1402251807" period="2" time="15:36" clock="21:00:44" action="Def Rebound" pos="3,-2" />
+    <play id="1402251799" period="2" time="15:36" clock="21:00:44" action="FG Made" pos="3,-2" />
+    <play id="1402879630" period="2" time="15:35" clock="21:00:45" action="Assist" />
+    <play id="1402253396" period="2" time="15:23" clock="21:00:57" action="3Pt Made" pos="14,-17" />
+    <play id="1402251799" period="2" time="15:04" clock="21:01:16" action="3Pt Made" pos="15,-17" />
+    <play id="1402251798" period="2" time="14:51" clock="21:01:30" action="Personal Foul" />
+    <play id="1402253396" period="2" time="14:20" clock="21:02:03" action="FT Made" />
+    <play id="1402253396" period="2" time="14:20" clock="21:02:03" action="FT Attempt" />
+    <play id="1402253403" period="2" time="14:14" clock="21:02:24" action="Technical Foul" />
+    <play id="1402251799" period="2" time="14:14" clock="21:02:40" action="FT Attempt" />
+    <play id="1402251807" period="2" time="14:14" clock="21:02:40" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402251799" period="2" time="14:14" clock="21:02:40" action="FT Made" />
+    <play id="1402251799" period="2" time="12:42" clock="21:03:03" action="FG Made" pos="14,-7" />
+    <play id="1402253396" period="2" time="12:24" clock="21:03:20" action="FG Attempt" pos="3,-4" />
+    <play id="1402251798" period="2" time="12:23" clock="21:03:21" action="Def Rebound" />
+    <play id="1402251799" period="2" time="12:16" clock="21:03:29" action="FG Attempt" pos="2,-3" />
+    <play id="1402251801" period="2" time="12:14" clock="21:03:34" action="Leave Game" />
+    <play id="1402251800" period="2" time="12:14" clock="21:03:34" action="Enter Game" />
+    <play id="1402253406" period="2" time="11:35" clock="21:04:11" action="Def Rebound" />
+    <play id="1402251798" period="2" time="11:35" clock="21:04:11" action="Personal Foul" />
+    <play id="1402253400" period="2" time="11:35" clock="21:04:45" action="FT Made" />
+    <play id="1402253400" period="2" time="11:35" clock="21:04:45" action="FT Attempt" />
+    <play id="1402253403" period="2" time="11:34" clock="21:04:46" action="Off Rebound" />
+    <play id="1402253400" period="2" time="11:30" clock="21:04:49" action="FG Attempt" pos="13,-1" />
+    <play id="1402879630" period="2" time="11:26" clock="21:04:53" action="Def Rebound" />
+    <play id="1402879630" period="2" time="11:19" clock="21:05:01" action="FG Attempt" pos="4,-2" />
+    <play id="1402253403" period="2" time="11:16" clock="21:05:04" action="Block" />
+    <play id="1402251804" period="2" time="11:15" clock="21:05:05" action="Off Rebound" />
+    <play id="1402251804" period="2" time="11:01" clock="21:05:18" action="FG Attempt" pos="6,-2" />
+    <play id="1402251804" period="2" time="11:01" clock="21:05:18" action="Off Rebound" />
+    <play id="1402251804" period="2" time="10:58" clock="21:05:22" action="FG Made" pos="1,1" />
+    <play id="1402253403" period="2" time="10:57" clock="21:05:27" action="Personal Foul" />
+    <play id="1402251804" period="2" time="10:57" clock="21:05:42" action="FT Made" />
+    <play id="1402879630" period="2" time="9:56" clock="21:06:00" action="FG Attempt" pos="1,-7" />
+    <play id="1402253406" period="2" time="9:27" clock="21:06:18" action="Def Rebound" pos="3,9" />
+    <play id="1402253400" period="2" time="9:27" clock="21:06:18" action="FG Attempt" pos="3,9" />
+    <play id="1402251799" period="2" time="9:24" clock="21:06:21" action="Def Rebound" />
+    <play id="1402251799" period="2" time="9:17" clock="21:06:30" action="Offensive Foul" />
+    <play id="1402251799" period="2" time="9:17" clock="21:06:30" action="Turnover" />
+    <play id="1402879630" period="2" time="9:17" clock="21:06:45" action="Leave Game" />
+    <play id="1402880284" period="2" time="9:17" clock="21:06:45" action="Enter Game" />
+    <play id="1402253406" period="2" time="9:17" clock="21:07:04" action="Charge Taken" pos="5,-22" />
+    <play id="1402253400" period="2" time="9:17" clock="21:07:04" action="3Pt Attempt" pos="5,-22" />
+    <play id="1402251799" period="2" time="9:17" clock="21:07:06" action="Def Rebound" />
+    <play id="1402251800" period="2" time="9:17" clock="21:07:20" action="3Pt Attempt" pos="21,-7" />
+    <play id="1402253399" period="2" time="9:17" clock="21:07:22" action="Def Rebound" />
+    <play id="1402253396" period="2" time="9:17" clock="21:07:27" action="Turnover" />
+    <play id="1402880284" period="2" time="9:17" clock="21:07:29" action="Steal" />
+    <play id="1402251798" period="2" time="9:17" clock="21:07:34" action="FG Attempt" pos="5,1" />
+    <play id="1402253406" period="2" time="9:17" clock="21:07:41" action="Def Rebound" pos="2,-2" />
+    <play id="1402253396" period="2" time="9:17" clock="21:07:41" action="FG Made" pos="2,-2" />
+    <play id="1402253396" period="2" time="9:17" clock="21:07:52" action="Personal Foul" />
+    <play id="1402251798" period="2" time="9:17" clock="21:08:21" action="FT Made" />
+    <play id="1402251798" period="2" time="9:17" clock="21:08:27" action="Leave Game" />
+    <play id="1402251803" period="2" time="9:17" clock="21:08:27" action="Enter Game" />
+    <play id="1402251799" period="2" time="8:56" clock="21:08:54" action="Personal Foul" />
+    <play id="1402253396" period="2" time="8:40" clock="21:09:17" action="FT Made" />
+    <play id="1402253396" period="2" time="8:40" clock="21:09:17" action="FT Made" />
+    <play id="1402251803" period="2" time="8:26" clock="21:09:31" action="Turnover" />
+    <play id="1402253399" period="2" time="8:25" clock="21:09:32" action="Steal" />
+    <play id="1402253398" period="2" time="8:07" clock="21:09:50" action="3Pt Attempt" pos="16,15" />
+    <play id="1402253400" period="2" time="8:06" clock="21:09:51" action="Off Rebound" />
+    <play id="1402253398" period="2" time="8:01" clock="21:09:56" action="FG Made" pos="2,4" />
+    <play id="1402251804" period="2" time="7:42" clock="21:10:16" action="Leave Game" pos="9,14" />
+    <play id="1402251800" period="2" time="7:42" clock="21:10:18" action="Leave Game" pos="9,14" />
+    <play id="1402251802" period="2" time="7:42" clock="21:10:18" action="Enter Game" pos="9,14" />
+    <play id="1402879630" period="2" time="7:42" clock="21:11:13" action="Enter Game" />
+    <play id="1402251802" period="2" time="7:42" clock="21:10:19" action="FG Attempt" pos="9,14" />
+    <play id="1402251799" period="2" time="7:42" clock="21:10:19" action="Off Rebound" />
+    <play id="1402253403" period="2" time="7:39" clock="21:10:28" action="Personal Foul" />
+    <play id="1402251803" period="2" time="7:39" clock="21:11:11" action="FT Made" />
+    <play id="1402251803" period="2" time="7:39" clock="21:11:11" action="FT Attempt" />
+    <play id="1402879630" period="2" time="7:38" clock="21:11:14" action="Off Rebound" />
+    <play id="1402880284" period="2" time="7:01" clock="21:11:27" action="Leave Game" />
+    <play id="1402251805" period="2" time="7:01" clock="21:11:27" action="Enter Game" />
+    <play id="1402251805" period="2" time="7:01" clock="21:11:29" action="FG Attempt" pos="2,-4" />
+    <play id="1402879630" period="2" time="7:01" clock="21:11:29" action="Off Rebound" />
+    <play id="1402879630" period="2" time="7:01" clock="21:11:31" action="FG Made" pos="2,1" />
+    <play id="1402253396" period="2" time="4:53" clock="21:11:55" action="3Pt Attempt" pos="3,21" />
+    <play id="1402251802" period="2" time="4:53" clock="21:11:57" action="Leave Game" />
+    <play id="1402251800" period="2" time="4:53" clock="21:11:58" action="Enter Game" />
+    <play id="1402251800" period="2" time="4:53" clock="21:11:59" action="Def Rebound" />
+    <play id="1402251799" period="2" time="4:53" clock="21:12:04" action="3Pt Attempt" pos="3,21" />
+    <play id="1402251805" period="2" time="4:53" clock="21:12:05" action="Off Rebound" />
+    <play id="1402253406" period="2" time="3:30" clock="21:12:32" action="Turnover" />
+    <play id="1402251800" period="2" time="3:27" clock="21:12:35" action="FG Made" pos="4,0" />
+    <play id="1402253403" period="2" time="3:26" clock="21:12:36" action="Leave Game" />
+    <play id="1402253397" period="2" time="3:26" clock="21:25:45" action="Enter Game" />
+    <play id="1402253398" period="2" time="3:24" clock="21:12:52" action="FG Attempt" pos="8,9" />
+    <play id="1402251803" period="2" time="3:24" clock="21:12:53" action="Def Rebound" />
+    <play id="1402251800" period="2" time="3:19" clock="21:13:01" action="FG Attempt" pos="10,-12" />
+    <play id="1402251803" period="2" time="3:15" clock="21:13:05" action="Off Rebound" />
+    <play id="1402251803" period="2" time="3:13" clock="21:13:07" action="FG Made" pos="2,2" />
+    <play id="0" period="2" time="3:00" clock="21:13:10" action="Time Marker" />
+    <play id="1402253398" period="2" time="2:55" clock="21:13:15" action="FG Made" pos="2,-1" />
+    <play id="1402253396" period="2" time="2:52" clock="21:13:17" action="Assist" />
+    <play id="1402251799" period="2" time="2:13" clock="21:13:37" action="FG Made" pos="2,2" />
+    <play id="1402253406" period="2" time="2:11" clock="21:13:39" action="Turnover" />
+    <play id="1402251800" period="2" time="2:10" clock="21:13:40" action="Steal" />
+    <play id="1402879630" period="2" time="1:55" clock="21:13:55" action="FG Made" pos="4,1" />
+    <play id="1402253406" period="2" time="1:53" clock="21:13:59" action="Time Out" />
+    <play id="1402251799" period="2" time="1:53" clock="21:15:05" action="Leave Game" />
+    <play id="1402251803" period="2" time="1:53" clock="21:15:05" action="Leave Game" />
+    <play id="1402251800" period="2" time="1:53" clock="21:15:05" action="Leave Game" />
+    <play id="1402879630" period="2" time="1:53" clock="21:15:05" action="Leave Game" />
+    <play id="1402251805" period="2" time="1:53" clock="21:15:05" action="Leave Game" />
+    <play id="1402251800" period="2" time="1:53" clock="21:15:06" action="Enter Game" />
+    <play id="1402251804" period="2" time="1:53" clock="21:15:10" action="Enter Game" />
+    <play id="1402879630" period="2" time="1:53" clock="21:15:10" action="Enter Game" />
+    <play id="1402251799" period="2" time="1:53" clock="21:15:16" action="Enter Game" />
+    <play id="1402251803" period="2" time="1:53" clock="21:15:18" action="Enter Game" />
+    <play id="1402253396" period="2" time="1:45" clock="21:15:26" action="3Pt Attempt" pos="21,-2" />
+    <play id="1402879630" period="2" time="1:43" clock="21:15:27" action="Def Rebound" />
+    <play id="1402251799" period="2" time="1:32" clock="21:15:45" action="Turnover" />
+    <play id="1402251799" period="2" time="1:32" clock="21:15:55" action="Technical Foul" />
+    <play id="1402253398" period="2" time="1:32" clock="21:16:23" action="FT Made" />
+    <play id="1402253398" period="2" time="1:32" clock="21:16:23" action="FT Made" />
+    <play id="1402251799" period="2" time="1:22" clock="21:17:02" action="Personal Foul" />
+    <play id="1402251799" period="2" time="1:22" clock="21:17:18" action="Leave Game" />
+    <play id="1402251802" period="2" time="1:22" clock="21:17:19" action="Enter Game" />
+    <play id="1402253396" period="2" time="1:22" clock="21:17:41" action="FT Attempt" />
+    <play id="1402253406" period="2" time="1:22" clock="21:17:41" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402253396" period="2" time="1:22" clock="21:17:41" action="FT Made" />
+    <play id="1402251802" period="2" time="1:22" clock="21:17:45" action="Leave Game" />
+    <play id="1402251798" period="2" time="1:22" clock="21:17:46" action="Enter Game" />
+    <play id="1402879630" period="2" time="1:07" clock="21:18:23" action="FG Attempt" pos="1,-4" />
+    <play id="1402253397" period="2" time="1:06" clock="21:18:24" action="Def Rebound" />
+    <play id="1402253396" period="2" time="1:00" clock="21:18:30" action="3Pt Attempt" pos="14,-17" />
+    <play id="1402251803" period="2" time="0:59" clock="21:18:32" action="Def Rebound" />
+    <play id="1402251803" period="2" time="0:46" clock="21:18:59" action="FG Made" pos="3,-3" />
+    <play id="1402251804" period="2" time="0:44" clock="21:19:01" action="Assist" />
+    <play id="1402253400" period="2" time="0:41" clock="21:19:15" action="Personal Foul" />
+    <play id="1402251800" period="2" time="0:41" clock="21:19:26" action="Technical Foul" />
+    <play id="1402251800" period="2" time="0:41" clock="21:20:08" action="FT Attempt" />
+    <play id="1402251807" period="2" time="0:41" clock="21:20:08" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402251800" period="2" time="0:41" clock="21:20:08" action="FT Attempt" />
+    <play id="1402251807" period="2" time="0:41" clock="21:20:08" action="Off Rebound" qual="Dead Ball Reb" />
+    <play id="1402253398" period="2" time="0:41" clock="21:20:37" action="FT Made" />
+    <play id="1402253398" period="2" time="0:41" clock="21:20:37" action="FT Made" />
+    <play id="1402253399" period="2" time="0:31" clock="21:21:00" action="3Pt Attempt" pos="20,-9" />
+    <play id="1402251804" period="2" time="0:30" clock="21:21:01" action="Def Rebound" />
+    <play id="1402251800" period="2" time="0:26" clock="21:21:05" action="FG Made" pos="3,-3" />
+    <play id="1402251798" period="2" time="0:25" clock="21:21:06" action="Assist" />
+    <play id="1402253398" period="2" time="0:17" clock="21:21:26" action="Personal Foul" />
+    <play id="1402251807" period="2" time="0:17" clock="21:21:43" action="Time Out" />
+    <play id="1402251800" period="2" time="0:24" clock="21:23:04" action="FT Made" />
+    <play id="1402251800" period="2" time="0:24" clock="21:23:04" action="FT Made" />
+    <play id="1402253398" period="2" time="0:14" clock="21:23:17" action="3Pt Attempt" pos="25,5" />
+    <play id="1402253397" period="2" time="0:14" clock="21:23:17" action="Off Rebound" />
+    <play id="1402253397" period="2" time="0:12" clock="21:23:35" action="Personal Foul" />
+    <play id="1402251804" period="2" time="0:12" clock="21:23:53" action="FT Made" />
+    <play id="1402251804" period="2" time="0:12" clock="21:23:53" action="FT Attempt" />
+    <play id="1402251807" period="2" time="0:11" clock="21:23:55" action="Off Rebound" />
+    <play id="1402253397" period="2" time="0:11" clock="21:23:55" action="Personal Foul" />
+    <play id="1402251804" period="2" time="0:11" clock="21:24:21" action="FT Made" />
+    <play id="1402251804" period="2" time="0:11" clock="21:24:21" action="FT Made" />
+    <play id="1402253399" period="2" time="0:06" clock="21:24:27" action="3Pt Made" pos="18,15" />
+    <play id="1402253397" period="2" time="0:04" clock="21:24:43" action="Personal Foul" />
+    <play id="1402253397" period="2" time="0:04" clock="21:24:53" action="Leave Game" />
+    <play id="1402253403" period="2" time="0:04" clock="21:24:53" action="Enter Game" />
+    <play id="1402251800" period="2" time="0:04" clock="21:25:19" action="FT Made" />
+    <play id="1402251800" period="2" time="0:04" clock="21:25:19" action="FT Made" />
+    <play id="1402253398" period="2" time="0:00" clock="21:25:30" action="3Pt Attempt" pos="24,4" />
+    <play id="1402251807" period="2" time="0:00" clock="21:25:45" action="Def Rebound" />
+    <play id="0" period="2" time="0:00" clock="21:25:45" action="End of Game" />
+  </plays>
+</bbgame>

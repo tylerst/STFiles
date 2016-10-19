@@ -1,0 +1,92 @@
+.header-outer {margin-left:31%; margin-right:33%}
+body {text-align:center}
+img.logo {width:200}
+h1.pagehead {text-align:center}
+table {margin:0 auto; width:100%; text-align:center; vertical-align:center}
+table.standings {width:50%; text-align:center; vertical-align:center}
+table.stats {width:50%}
+td.nogame {background-color:black}
+td.team {width:18%}
+td.teamWIT {width:10%}
+td.teamProvincials {width:20%}
+td.scoreProvincials {width:4%}
+td.seedProvincials {width:1%}
+td.score {width:2%}
+td.teamWC {width:6%}
+td.UW {background-color:red}
+td.RRC {background-color:black; color:red}
+td.CMU {background-color:green; color:yellow}
+td.PUC {background-color:blue; color:white}
+td.USB {background-color:red; color:white}
+td.ACC {background-color:maroon; color:white}
+td.OHCC {background-color:#012233; color:#ffa626}
+td.UWwin {background-color:red; font-weight:bold}
+td.RRCwin {background-color:black; color:red; font-weight:bold}
+td.CMUwin {background-color:green; color:yellow; font-weight:bold}
+td.PUCwin {background-color:blue; color:white; font-weight:bold}
+td.USBwin {background-color:red; color:white; font-weight:bold}
+td.ACCwin {background-color:maroon; color:white; font-weight:bold}
+td.OHCCwin {background-color:#012233; color:#ffa626; font-weight:bold}
+
+
+.dateBoxFirst {
+border: 1px solid #000000;
+height:46px;
+}
+
+.dateBoxLeft {
+border: 1px solid #000000;
+border-right:0;
+height:46px;
+}
+
+.dateBoxRight {
+border: 1px solid #000000;
+border-left:0;
+height:46px;
+}
+
+.dateBoxSingle {
+border: 1px solid #000000;
+border-left:0;
+height:46px;
+}
+
+.overtimeOTBox {
+border: 1px solid #000000;
+border-left:0;
+border-right:0;
+height:46px;
+}
+
+.overtimeOTBoxRight {
+border: 1px solid #000000;
+border-left:0;
+height:46px;
+}
+
+.overtimeOTBoxLeft {
+border: 1px solid #000000;
+border-right:0;
+height:46px;
+}
+
+.WITBoxEmpty {
+border: 1px solid #000000;
+border-left:0;
+border-right:0;
+}
+
+.WITBoxTop {
+border: 1px solid #000000;
+border-left:0;
+border-right:0;
+border-bottom:0;
+}
+
+.WITBoxBottom {
+border: 1px solid #000000;
+border-left:0;
+border-right:0;
+border-top:0;
+}

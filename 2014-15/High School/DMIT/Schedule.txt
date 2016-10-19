@@ -1,0 +1,41 @@
+Monday:
+
+@ Daniel McIntyre:
+3:30 Girls 1
+5:15 Boys 1
+7:00 Girls 2
+8:45 Boys 2
+
+@ Tec Voc:
+4:00 Boys 3
+5:45 Girls 3
+7:30 Boys 4
+9:15 Girls 4
+
+Tuesday:
+
+3:30 Boys 7
+5:15 Girls 7
+7:00 Boys 5
+8:45 Girls 5
+
+Wednesday:
+
+3:30 Girls 8
+5:15 Boys 8
+7:00 Girls 6
+8:45 Boys 6
+
+Thursday:
+
+3:30 Girls 9
+5:15 Boys 9
+7:00 Girls 10
+8:45 Boys 10
+
+Friday:
+
+12:00 Girls 11
+1:45 Boys 11
+3:30 Girls 12
+5:15 Boys 12

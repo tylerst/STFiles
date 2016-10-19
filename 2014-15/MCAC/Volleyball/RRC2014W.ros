@@ -1,0 +1,19 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[1	1	RRC	Red River College	Rebels	Red River	 	1	MCAC	 	MCAC	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[1	1	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[44	1	1	 1	Jewel	Pierre-Roscelli	 	 	 	 	 	 	 	 	 	 	 	0]
+[45	1	1	 3	Chelsea	Siemens	 	 	 	 	 	 	 	 	 	 	 	0]
+[46	1	1	 4	Shaye	Rautenbach	 	 	 	 	 	 	 	 	 	 	 	0]
+[47	1	1	 5	Maryam	Seid	 	 	 	 	 	 	 	 	 	 	 	0]
+[48	1	1	 6	Emily	Pankratz	 	 	 	 	 	 	 	 	 	 	 	0]
+[49	1	1	 7	Jozanna	Rempel	 	 	 	 	 	 	 	 	 	 	 	0]
+[50	1	1	 8	Taylor	Hedley	 	 	 	 	 	 	 	 	 	 	 	0]
+[51	1	1	11	Bedette	Marquez	 	 	 	 	 	 	 	 	 	 	 	0]
+[52	1	1	12	Holly	Setlack	 	 	 	 	 	 	 	 	 	 	 	0]
+[53	1	1	13	Amy	Thiessen	 	 	 	 	 	 	 	 	 	 	 	0]
+[54	1	1	14	Breanne	Heinrichs	 	 	 	 	 	 	 	 	 	 	 	0]
+[55	1	1	  	Taeghen	Klassen	 	 	 	 	 	 	 	 	 	 	 	0]
+[56	1	1	  	Ashley	Bilinski	 	 	 	 	 	 	 	 	 	 	 	0]
+[71	1	1	 2	Alyssa	Peterson	 	 	 	 	 	 	 	 	 	 	 	0]

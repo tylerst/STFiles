@@ -1,0 +1,78 @@
+	td.GCC {font-weight: bold; background-color:black; color:gold}
+	td.KEC {font-weight: bold; background-color:maroon; color:white}
+	td.MC {font-weight: bold; background-color:gray}
+	td.MBCI {font-weight: bold; background-color:red; color:blue}
+	td.MMC {font-weight: bold; background-color:green; color:gold}
+	td.MMCI {font-weight: bold; background-color:black; color:green}
+	td.REC {font-weight: bold; background-color:blue; color:white}
+	td.LS {font-weight: bold; background-color:MediumBlue; color:white}
+	td.SCI {font-weight: bold; background-color:#A00000; color:white}
+	td.TCI {font-weight: bold; background-color:green; color:white}
+	td.WKC {font-weight: bold; background-color:navy; color:white}
+	td.CJS {font-weight: bold; background-color:blue; color:white}
+	td.DCI {font-weight: bold; background-color:black; color:gold}
+	td.GCI {font-weight: bold; background-color:red; color:white}
+	td.JHB {font-weight: bold; background-color:blue; color:gold}
+	td.NPC {font-weight: bold; background-color:navy; color:red}
+	td.SJR {font-weight: bold; background-color:black; color:green}
+	td.SRSS {font-weight: bold; background-color:gold}
+	td.WMC {font-weight:bold; background-color:navy; color:white}
+	td.DMCI {font-weight: bold; background-color:maroon; color:white}
+	td.FRC {font-weight: bold; background-color:black; color:gold}
+	td.JTC {font-weight: bold; background-color:green; color:gold}
+	td.KHS {font-weight: bold; background-color:red; color:white}
+	td.OPHS {font-weight: bold; background-color:blue; color:white}
+	td.SiHS {font-weight: bold; background-color:black; color:red}
+	td.SPHS {font-weight: bold; background-color:maroon; color:white}
+	td.SMA {font-weight: bold; background-color:navy; color:red}
+	td.SHC {font-weight: bold; background-color:DarkBlue; color:red}
+	td.VMC {font-weight: bold; background-color:green; color:white}
+	td.EHS {font-weight: bold; background-color:DarkGreen; color:white}
+	td.GBHS {font-weight: bold; background-color:blue; color:gold}
+	td.GPHS {font-weight: bold; background-color:blue; color:white}
+	td.PCI {font-weight: bold; background-color:maroon; color:gold}
+	td.ShHS {font-weight: bold; background-color:navy; color:red}
+	td.SJHS {font-weight: bold; background-color:OrangeRed; color:black}
+	td.TVHS {font-weight: bold; background-color:gold; color:green}
+	td.WWC {font-weight: bold; background-color:maroon; color:white}
+	td.CPRS {font-weight: bold; background-color:maroon; color:gold}
+	td.VMHS {font-weight: bold; background-color:#500050; color:white}
+	td.GCCsched {background-color:black; color:gold}
+	td.KECsched {background-color:maroon; color:white}
+	td.MCsched {background-color:gray}
+	td.MBCIsched {background-color:red; color:blue}
+	td.MMCsched {background-color:green; color:gold}
+	td.MMCIsched {background-color:black; color:green}
+	td.RECsched {background-color:blue; color:white}
+	td.LSsched {background-color:MediumBlue; color:white}
+	td.SCIsched {background-color:#A00000; color:white}
+	td.TCIsched {background-color:green; color:white}
+	td.WKCsched {background-color:navy; color:white}
+	td.CJSsched {background-color:blue; color:white}
+	td.DCIsched {background-color:black; color:gold}
+	td.GCIsched {background-color:red; color:white}
+	td.JHBsched {background-color:blue; color:gold}
+	td.NPCsched {background-color:navy; color:red}
+	td.SJRsched {background-color:black; color:green}
+	td.SRSSsched {background-color:gold}
+	td.WMCsched {background-color:navy; color:white}
+	td.DMCIsched {background-color:maroon; color:white}
+	td.FRCsched {background-color:black; color:gold}
+	td.JTCsched {background-color:green; color:gold}
+	td.KHSsched {background-color:red; color:white}
+	td.OPHSsched {background-color:blue; color:white}
+	td.SiHSsched {background-color:black; color:red}
+	td.SPHSsched {background-color:maroon; color:white}
+	td.SMAsched {background-color:navy; color:red}
+	td.SHCsched {background-color:DarkBlue; color:red}
+	td.VMCsched {background-color:green; color:white}
+	td.EHSsched {background-color:DarkGreen; color:white}
+	td.GBHSsched {background-color:blue; color:gold}
+	td.GPHSsched {background-color:blue; color:white}
+	td.PCIsched {background-color:maroon; color:gold}
+	td.ShHSsched {background-color:navy; color:red}
+	td.SJHSsched {background-color:OrangeRed; color:black}
+	td.TVHSsched {background-color:gold; color:green}
+	td.WWCsched {background-color:maroon; color:white}
+	td.CPRSsched {background-color:maroon; color:gold}
+	td.VMHSsched {background-color:#500050; color:white}

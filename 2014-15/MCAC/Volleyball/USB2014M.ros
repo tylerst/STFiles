@@ -1,0 +1,15 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[5	1	USB	Université de Saint-Boniface	Rouges	Saint-Boniface	 	0	MCAC	 	 	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[5	5	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[34	5	1	 1	Chad	Wallack	 	 	 	 	 	 	 	 	 	 	 	0]
+[35	5	1	 2	Joshua	Cole	 	 	 	 	 	 	 	 	 	 	 	0]
+[36	5	1	 3	Colin	Roissonneault	 	 	 	 	 	 	 	 	 	 	 	0]
+[37	5	1	 6	Alex	Ogaranko	 	 	 	 	 	 	 	 	 	 	 	0]
+[38	5	1	 8	Alex	Bazin	 	 	 	 	 	 	 	 	 	 	 	0]
+[39	5	1	11	Zacchary	Fredette	 	 	 	 	 	 	 	 	 	 	 	0]
+[40	5	1	12	Nicholas	Marcon-Lajeunesse	 	 	 	 	 	 	 	 	 	 	 	0]
+[41	5	1	13	Jean-Bocar	Diello	 	 	 	 	 	 	 	 	 	 	 	0]
+[42	5	1	15	Jonathan	Seeman	 	 	 	 	 	 	 	 	 	 	 	0]
+[71	5	1	 9	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]

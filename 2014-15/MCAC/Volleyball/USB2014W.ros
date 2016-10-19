@@ -1,0 +1,17 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2014	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[6	1	USB	Université de Saint-Boniface	Rouges	Saint-Boniface	 	1	MCAC	 	MCAC	 	0	0	1	Winnipeg	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[6	6	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[72	6	1	 5	Raegan	Caron	 	 	 	 	 	 	 	 	 	 	 	0]
+[73	6	1	 7	Gabrielle	Marquis	 	 	 	 	 	 	 	 	 	 	 	0]
+[74	6	1	 8	Émilie	Ferguson	 	 	 	 	 	 	 	 	 	 	 	0]
+[75	6	1	 9	Alyena	Fredette	 	 	 	 	 	 	 	 	 	 	 	0]
+[76	6	1	10	Stéphanie	Rempel	 	 	 	 	 	 	 	 	 	 	 	0]
+[77	6	1	12	Paige	Preteau	 	 	 	 	 	 	 	 	 	 	 	0]
+[78	6	1	13	Keisha-Mae	Kaddu	 	 	 	 	 	 	 	 	 	 	 	0]
+[79	6	1	16	Marika	Laczko	 	 	 	 	 	 	 	 	 	 	 	0]
+[80	6	1	15	Megan	Fraser	 	 	 	 	 	 	 	 	 	 	 	0]
+[81	6	1	17	Janelle	Buissé	 	 	 	 	 	 	 	 	 	 	 	0]
+[85	6	1	 6	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]
+[86	6	1	 4	 	Unknown	 	 	 	 	 	 	 	 	 	 	 	0]

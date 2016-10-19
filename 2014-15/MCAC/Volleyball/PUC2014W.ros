@@ -1,0 +1,20 @@
+<DSVB	4.770	(C) Copyright Daktronics, Inc. 2015	ROSTERS>
+{TEAMS	TMID	TMACTIVE	ABBREV	LOCATION	NICKNAME	TEAMSHORT	TEAMCODE	GENDER	LEAGUE	DIVISION	CONFERENCE	COACH	LEAGUEID	COLLEGEID	CSTV_TMID	TMCITY	TMSTATE	TMLOCATION}
+[2	1	PUC	Providence University College	Pilots	Providence	 	1	MCAC	 	MCAC	 	0	0	1	Otterburne	MB	 ]
+{ROSTERS	PLRID	TMID	PLRACTIVE	NUMBER	FIRSTNAME	LASTNAME	POSITION	HOMETOWN	HEIGHT	WEIGHT	YEAR	TEAMCODE	PLRCODE	MISCLINE1	MISCLINE2	MISCLINE3	MISCLINE4	LEAGUEID}
+[2	2	1	TM	 	TEAM	 	 	 	 	 	 	 	 	 	 	 	0]
+[17	2	1	 1	Brooke	Paulsen	 	 	 	 	 	 	 	 	 	 	 	0]
+[18	2	1	 2	Katelyn	Corbin	 	 	 	 	 	 	 	 	 	 	 	0]
+[19	2	1	 3	Melora	Smoke	 	 	 	 	 	 	 	 	 	 	 	0]
+[20	2	1	 4	Emily	Vandermeer	 	 	 	 	 	 	 	 	 	 	 	0]
+[21	2	1	 5	Sam	Bridle	 	 	 	 	 	 	 	 	 	 	 	0]
+[22	2	1	 6	Claudia	Rebizant	 	 	 	 	 	 	 	 	 	 	 	0]
+[23	2	1	 7	Lauren	Toews	 	 	 	 	 	 	 	 	 	 	 	0]
+[24	2	1	 8	Bethany	Friesen	 	 	 	 	 	 	 	 	 	 	 	0]
+[25	2	1	 9	Alison	Klassen	 	 	 	 	 	 	 	 	 	 	 	0]
+[26	2	1	10	Kennedy	Koop	 	 	 	 	 	 	 	 	 	 	 	0]
+[27	2	1	12	Shayna	Staerk	 	 	 	 	 	 	 	 	 	 	 	0]
+[28	2	1	14	Hannah	Boldt	 	 	 	 	 	 	 	 	 	 	 	0]
+[29	2	1	13	Hannah	Osadchuk	 	 	 	 	 	 	 	 	 	 	 	0]
+[30	2	1	15	Emily	Dirks	 	 	 	 	 	 	 	 	 	 	 	0]
+[31	2	1	16	LaRae	Penner	 	 	 	 	 	 	 	 	 	 	 	0]
