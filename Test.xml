@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<vbgame source="DakStats Volleyball" version="4.770" generated="9/10/2014" xmlversion="1" oc="0" of="0" oe="0" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:js="http://daktronics.com/jscript">
+	<venue gameid=" " visid="NDSU" visname="NDSU Bison" homeid="SDSU" homename="SDSU Jacks" date="2000-05-14" location=" ,  " arena=" " start="00:55" end="00:55" duration="00:00" attend="0" leaguegame="N" neutralgame="N" postseason="N">
+		<officials>
+			<official title="1st Referee" name=" "/>
+			<official title="2nd Referee" name=" "/>
+		</officials>
+		<rules prds="" minutes="" minutesot="" fouls="" qh=""/>
+	</venue>
+	<status complete="Y" game=" " vscore="0" hscore="3" serving="H" vpoints="12" hpoints="15"/>
+	<team vh="V" id="NDSU" name="NDSU Bison" code="NDSU" record=" ">
+		<linescore line="12,5,6,0,0" score="0">
+			<linegame game="1" points="12"/>
+			<linegame game="2" points="5"/>
+			<linegame game="3" points="6"/>
+			<linegame game="4" points="0"/>
+			<linegame game="5" points="0"/>
+		</linescore>
+		<attackbygame>
+			<attackgame game="1" k="14" e="6" ta="54" pct="0.148"/>
+			<attackgame game="2" k="8" e="6" ta="24" pct="0.083"/>
+			<attackgame game="3" k="12" e="11" ta="40" pct="0.025"/>
+			<attackgame game="4" k="0" e="0" ta="0" pct="0.000"/>
+			<attackgame game="5" k="0" e="0" ta="0" pct="0.000"/>
+		</attackbygame>
+		<totals>
+			<attack k="34" e="23" ta="118" pct="0.093"/>
+			<set a="30" e="0" ta="30"/>
+			<serve sa="6" se="6" ta="12"/>
+			<defense dig="45" re="8" ta="8"/>
+			<block bs="1" ba="2" be="3" tb="2.0"/>
+			<misc bhe="0" pts="42.0"/>
+		</totals>
+		<player uni="TM" code=" " name="TEAM" checkname="TEAM" gp="3" ms="3">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="1" ta="1"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni=" 1" code=" " name="Roxane Long" checkname="LONG,ROXANE" gp="3">
+			<attack k="0" e="3" ta="4" pct="-0.750"/>
+			<set a="30" e="0" ta="30"/>
+			<serve sa="2" se="1" ta="3"/>
+			<defense dig="8" re="0" ta="0"/>
+			<block bs="0" ba="0" be="1" tb="0.0"/>
+			<misc bhe="0" pts="2.0"/>
+		</player>
+		<player uni=" 2" code=" " name="Jessica Andrews" checkname="ANDREWS,JESSICA" gp="3">
+			<attack k="8" e="6" ta="19" pct="0.105"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="2" se="1" ta="3"/>
+			<defense dig="6" re="1" ta="1"/>
+			<block bs="0" ba="1" be="0" tb="0.5"/>
+			<misc bhe="0" pts="10.5"/>
+		</player>
+		<player uni=" 3" code=" " name="Sara Smith" checkname="SMITH,SARA" gp="3">
+			<attack k="6" e="5" ta="25" pct="0.040"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="1" se="1" ta="2"/>
+			<defense dig="10" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="7.0"/>
+		</player>
+		<player uni=" 4" code=" " name="Kim Stimson" checkname="STIMSON,KIM" gp="3">
+			<attack k="1" e="1" ta="13" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="1" se="0" ta="1"/>
+			<defense dig="7" re="3" ta="3"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="2.0"/>
+		</player>
+		<player uni=" 5" code=" " name="Karen Weisbeck" checkname="WEISBECK,KAREN" gp="3">
+			<attack k="8" e="4" ta="26" pct="0.154"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="1" ta="1"/>
+			<defense dig="7" re="1" ta="1"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="8.0"/>
+		</player>
+		<player uni=" 6" code=" " name="Faye Dahl" checkname="DAHL,FAYE" gp="3">
+			<attack k="11" e="4" ta="30" pct="0.233"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="2" re="1" ta="1"/>
+			<block bs="1" ba="1" be="2" tb="1.5"/>
+			<misc bhe="0" pts="12.5"/>
+		</player>
+		<player uni=" 7" code=" " name="Angela Gross" checkname="GROSS,ANGELA" gp="3">
+			<attack k="0" e="0" ta="1" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="2" ta="2"/>
+			<defense dig="5" re="1" ta="1"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni=" 8" code=" " name="Arlene Hodges" checkname="HODGES,ARLENE" gp="3">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni=" 9" code=" " name="Karla Morrow" checkname="MORROW,KARLA" gp="3">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni="10" code=" " name="Julie Lorensen" checkname="LORENSEN,JULIE" gp="3">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni="11" code=" " name="Kathy Langland" checkname="LANGLAND,KATHY" gp="0"/>
+		<player uni="12" code=" " name="Barbara Greff" checkname="GREFF,BARBARA" gp="0"/>
+		<player uni="13" code=" " name="Becky Wittrock" checkname="WITTROCK,BECKY" gp="0"/>
+		<player uni="14" code=" " name="Julie Mangnall" checkname="MANGNALL,JULIE" gp="0"/>
+		<player uni="15" code=" " name="Amber Ohm" checkname="OHM,AMBER" gp="0"/>
+		<player uni="16" code=" " name="Virginia Casper" checkname="CASPER,VIRGINIA" gp="0"/>
+	</team>
+	<team vh="H" id="SDSU" name="SDSU Jacks" code=" " record=" ">
+		<linescore line="15,15,15,0,0" score="3">
+			<linegame game="1" points="15"/>
+			<linegame game="2" points="15"/>
+			<linegame game="3" points="15"/>
+			<linegame game="4" points="0"/>
+			<linegame game="5" points="0"/>
+		</linescore>
+		<attackbygame>
+			<attackgame game="1" k="25" e="10" ta="73" pct="0.205"/>
+			<attackgame game="2" k="13" e="2" ta="23" pct="0.478"/>
+			<attackgame game="3" k="13" e="5" ta="30" pct="0.267"/>
+			<attackgame game="4" k="0" e="0" ta="0" pct="0.000"/>
+			<attackgame game="5" k="0" e="0" ta="0" pct="0.000"/>
+		</attackbygame>
+		<totals>
+			<attack k="51" e="17" ta="126" pct="0.270"/>
+			<set a="44" e="0" ta="44"/>
+			<serve sa="8" se="9" ta="17"/>
+			<defense dig="52" re="6" ta="6"/>
+			<block bs="2" ba="12" be="5" tb="8.0"/>
+			<misc bhe="0" pts="67.0"/>
+		</totals>
+		<player uni="TM" code=" " name="TEAM" checkname="TEAM" gp="3" ms="3">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni=" 1" code=" " name="Carol Jung" checkname="JUNG,CAROL" gp="0"/>
+		<player uni=" 2" code=" " name="Jennifer Sabers" checkname="SABERS,JENNIFER" gp="3">
+			<attack k="4" e="2" ta="13" pct="0.154"/>
+			<set a="19" e="0" ta="19"/>
+			<serve sa="1" se="0" ta="1"/>
+			<defense dig="5" re="1" ta="1"/>
+			<block bs="1" ba="1" be="0" tb="1.5"/>
+			<misc bhe="0" pts="6.5"/>
+		</player>
+		<player uni=" 3" code=" " name="Melissa Phillips" checkname="PHILLIPS,MELISSA" gp="2">
+			<attack k="4" e="3" ta="10" pct="0.100"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="4" se="1" ta="5"/>
+			<defense dig="5" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="8.0"/>
+		</player>
+		<player uni=" 4" code=" " name="Amber Rush" checkname="RUSH,AMBER" gp="3">
+			<attack k="12" e="7" ta="30" pct="0.167"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="4" ta="4"/>
+			<defense dig="10" re="3" ta="3"/>
+			<block bs="0" ba="2" be="2" tb="1.0"/>
+			<misc bhe="0" pts="13.0"/>
+		</player>
+		<player uni=" 5" code=" " name="Donna Sterud" checkname="STERUD,DONNA" gp="3">
+			<attack k="14" e="2" ta="24" pct="0.500"/>
+			<set a="1" e="0" ta="1"/>
+			<serve sa="0" se="1" ta="1"/>
+			<defense dig="8" re="0" ta="0"/>
+			<block bs="1" ba="2" be="1" tb="2.0"/>
+			<misc bhe="0" pts="16.0"/>
+		</player>
+		<player uni=" 6" code=" " name="Kay Patrick" checkname="PATRICK,KAY" gp="3">
+			<attack k="7" e="2" ta="22" pct="0.227"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="1" ta="1"/>
+			<defense dig="3" re="0" ta="0"/>
+			<block bs="0" ba="4" be="0" tb="2.0"/>
+			<misc bhe="0" pts="9.0"/>
+		</player>
+		<player uni=" 7" code=" " name="Linda Karlstad" checkname="KARLSTAD,LINDA" gp="2">
+			<attack k="4" e="0" ta="11" pct="0.364"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="4" re="1" ta="1"/>
+			<block bs="0" ba="1" be="0" tb="0.5"/>
+			<misc bhe="0" pts="4.5"/>
+		</player>
+		<player uni=" 8" code=" " name="Jennifer Bruinsma" checkname="BRUINSMA,JENNIFER" gp="3">
+			<attack k="4" e="0" ta="6" pct="0.667"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="11" re="1" ta="1"/>
+			<block bs="0" ba="1" be="1" tb="0.5"/>
+			<misc bhe="0" pts="4.5"/>
+		</player>
+		<player uni=" 9" code=" " name="Leann Holler" checkname="HOLLER,LEANN" gp="2">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="0.0"/>
+		</player>
+		<player uni="10" code=" " name="Pam Judd" checkname="JUDD,PAM" gp="1">
+			<attack k="0" e="0" ta="0" pct="0.000"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="0" re="0" ta="0"/>
+			<block bs="0" ba="1" be="0" tb="0.5"/>
+			<misc bhe="0" pts="0.5"/>
+		</player>
+		<player uni="11" code=" " name="Robin Wicks" checkname="WICKS,ROBIN" gp="2">
+			<attack k="0" e="1" ta="3" pct="-0.333"/>
+			<set a="24" e="0" ta="24"/>
+			<serve sa="3" se="2" ta="5"/>
+			<defense dig="4" re="0" ta="0"/>
+			<block bs="0" ba="0" be="1" tb="0.0"/>
+			<misc bhe="0" pts="3.0"/>
+		</player>
+		<player uni="12" code=" " name="Laura Thorsteinson" checkname="THORSTEINSON,LAURA" gp="1">
+			<attack k="2" e="0" ta="7" pct="0.286"/>
+			<set a="0" e="0" ta="0"/>
+			<serve sa="0" se="0" ta="0"/>
+			<defense dig="2" re="0" ta="0"/>
+			<block bs="0" ba="0" be="0" tb="0.0"/>
+			<misc bhe="0" pts="2.0"/>
+		</player>
+		<player uni="14" code=" " name="Marissa Iverson" checkname="IVERSON,MARISSA" gp="0"/>
+	</team>
+	<plays format="summary"></plays>
+	<breakdowns vh="V" pts="23" kill="34" ace="6" block="2" eatk="23" esvc="6" ebhe="0">
+		<breakdown game="1" pts="12" kill="34" ace="6" block="2" eatk="23" esvc="6" ebhe="0"/>
+		<breakdown game="2" pts="5" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="3" pts="6" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="4" pts="0" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="5" pts="0" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+	</breakdowns>
+	<breakdowns vh="H" pts="45" kill="51" ace="8" block="8" eatk="17" esvc="9" ebhe="0">
+		<breakdown game="1" pts="15" kill="51" ace="8" block="8" eatk="17" esvc="9" ebhe="0"/>
+		<breakdown game="2" pts="15" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="3" pts="15" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="4" pts="0" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+		<breakdown game="5" pts="0" kill="0" ace="0" block="0" eatk="0" esvc="0" ebhe="0"/>
+	</breakdowns>
+</vbgame>
